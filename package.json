@@ -1,0 +1,36 @@
+{
+  "name": "simple-covid19-chart-in-japan",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build && next export",
+    "start": "next start",
+    "lint": "next lint",
+    "update": "ts-node ./updater/update.ts"
+  },
+  "dependencies": {
+    "next": "11.1.0",
+    "react": "17.0.2",
+    "react-dom": "17.0.2"
+  },
+  "devDependencies": {
+    "@types/hammerjs": "^2.0.40",
+    "@types/node-fetch": "^2.5.12",
+    "@types/react": "17.0.17",
+    "autoprefixer": "^10.3.1",
+    "chart.js": "^3.5.0",
+    "chartjs-adapter-moment": "^1.0.0",
+    "chartjs-plugin-zoom": "^1.1.1",
+    "eslint": "7.32.0",
+    "eslint-config-next": "11.1.0",
+    "hammerjs": "^2.0.8",
+    "moment": "^2.29.1",
+    "node-fetch": "^2.6.1",
+    "postcss": "^8.3.6",
+    "react-chartjs-2": "^3.0.4",
+    "tailwindcss": "^2.2.7",
+    "ts-node": "^10.2.0",
+    "typescript": "4.3.5"
+  }
+}
