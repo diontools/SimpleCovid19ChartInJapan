@@ -1,6 +1,7 @@
 import * as path from 'path'
 import * as fs from 'fs'
 import fetch from 'node-fetch'
+import * as moment from 'moment'
 
 type Format = 'int' | 'date' | undefined
 
@@ -75,7 +76,7 @@ const ndJsonToJson = (csv: string) => {
 const parse = (value: string, format: Format) => {
     switch (format) {
         case 'int': return parseInt(value, 10)
-        case 'date': return Date.parse(value) - 9 * 60 * 60 * 1000
+        case 'date': return moment(value, 'YYYY/M/D', true).valueOf()
         case undefined: return value
         default: const n: never = format
     }
