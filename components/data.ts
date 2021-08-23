@@ -3,6 +3,7 @@ import * as fs from 'fs'
 import { Chart } from './Chart'
 import { Prefecture } from './regions'
 import '../components/arrayEx'
+import moment from 'moment'
 
 const currentDir = process.cwd()
 console.log(currentDir)
@@ -152,12 +153,12 @@ export const generateCharts = (prefecture?: Prefecture): ChartProps[] => {
 
     const vaccines1 =
         vaccinesByDate
-            .map<[number, number]>(g => [Date.parse(g[0]) - 9 * 60 * 60 * 1000, g[1].filter(v => v.status === 1).reduce((t, v) => t + v.count, 0)])
+            .map<[number, number]>(g => [moment(g[0], 'YYYY-MM-DD', true).utc().valueOf(), g[1].filter(v => v.status === 1).reduce((t, v) => t + v.count, 0)])
             .reduce<[number, number][]>((t, v) => { t.push([v[0], v[1] + (t[t.length - 1]?.[1] || 0)]); return t }, [])
 
     const vaccines2 =
         vaccinesByDate
-            .map<[number, number]>(g => [Date.parse(g[0]) - 9 * 60 * 60 * 1000, g[1].filter(v => v.status === 2).reduce((t, v) => t + v.count, 0)])
+            .map<[number, number]>(g => [moment(g[0], 'YYYY-MM-DD', true).utc().valueOf(), g[1].filter(v => v.status === 2).reduce((t, v) => t + v.count, 0)])
             .reduce<[number, number][]>((t, v) => { t.push([v[0], v[1] + (t[t.length - 1]?.[1] || 0)]); return t }, [])
 
     return [{

@@ -76,7 +76,7 @@ const ndJsonToJson = (csv: string) => {
 const parse = (value: string, format: Format) => {
     switch (format) {
         case 'int': return parseInt(value, 10)
-        case 'date': return moment(value, 'YYYY/M/D', true).valueOf()
+        case 'date': return moment(value, 'YYYY/M/D', true).utc().valueOf()
         case undefined: return value
         default: const n: never = format
     }
