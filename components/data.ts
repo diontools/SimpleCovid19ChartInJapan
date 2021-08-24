@@ -77,7 +77,6 @@ export const vaccineDailies = loadJson<VaccineDaily[]>('prefecture.ndjson.json')
 
 export type ChartProps = {
     data: Parameters<typeof Chart>[0]['data']
-    options: Parameters<typeof Chart>[0]['options']
 }
 
 export const generateCharts = (prefecture?: Prefecture): ChartProps[] => {
@@ -286,131 +285,6 @@ export const generateCharts = (prefecture?: Prefecture): ChartProps[] => {
                     yAxisID: 'y5',
                 },
             ]
-        },
-        options: {
-            interaction: {
-                intersect: false,
-                axis: 'x',
-                mode: 'nearest',
-            },
-            animation: false,
-            scales: {
-                x: {
-                    type: 'time',
-                    time: {
-                        tooltipFormat: 'YYYY / MM / DD (ddd)',
-                        displayFormats: {
-                            'day': 'YYYY / MM / DD (ddd)',
-                            'month': 'YYYY / MM',
-                        },
-                        minUnit: 'day',
-                    },
-                },
-                y: {
-                    type: 'linear',
-                    position: 'right',
-                    min: 0,
-                    title: {
-                        display: true,
-                        text: '新規陽性者数',
-                        color: 'green',
-                    },
-                },
-                y1: {
-                    type: 'linear',
-                    position: 'right',
-                    min: 0,
-                    title: {
-                        display: true,
-                        text: '重症者数',
-                        color: 'purple',
-                    },
-                    grid: {
-                        drawOnChartArea: false, // only want the grid lines for one axis to show up
-                    },
-                },
-                y2: {
-                    type: 'linear',
-                    position: 'right',
-                    min: 0,
-                    title: {
-                        display: true,
-                        text: '死者数',
-                        color: 'red',
-                    },
-                    grid: {
-                        drawOnChartArea: false, // only want the grid lines for one axis to show up
-                    },
-                },
-                y3: {
-                    type: 'linear',
-                    position: 'right',
-                    min: 0,
-                    title: {
-                        display: true,
-                        text: '入院治療等を要する者等',
-                        color: 'rgb(180,180,0)',
-                    },
-                    grid: {
-                        drawOnChartArea: false, // only want the grid lines for one axis to show up
-                    },
-                },
-                y4: {
-                    type: 'linear',
-                    position: 'right',
-                    min: 0,
-                    title: {
-                        display: true,
-                        text: '退院及び療養解除者数',
-                        color: 'blue',
-                    },
-                    grid: {
-                        drawOnChartArea: false, // only want the grid lines for one axis to show up
-                    },
-                },
-                y5: {
-                    type: 'linear',
-                    position: 'right',
-                    min: 0,
-                    title: {
-                        display: true,
-                        text: 'ワクチン接種回数',
-                        color: 'darkgray',
-                    },
-                    grid: {
-                        drawOnChartArea: false, // only want the grid lines for one axis to show up
-                    },
-                },
-            },
-            plugins: {
-                tooltip: {
-                    position: 'nearest',
-                    caretSize: 0,
-                    caretPadding: 32,
-                },
-                zoom: {
-                    pan: {
-                        enabled: true,
-                        mode: 'x',
-                        threshold: 5,
-                    },
-                    zoom: {
-                        wheel: {
-                            enabled: true,
-                        },
-                        pinch: {
-                            enabled: true,
-                        },
-                        mode: 'x',
-                    },
-                    limits: {
-                        x: {
-                            max: 'original',
-                            min: 'original',
-                        },
-                    },
-                },
-            },
         },
     }]
 }

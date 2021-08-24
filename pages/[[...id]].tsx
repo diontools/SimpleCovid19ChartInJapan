@@ -2,7 +2,7 @@ import { GetStaticPaths, GetStaticProps, NextPage } from "next"
 import { Layout } from "../components/Layout"
 import * as data from '../components/data'
 import { getPrefecture, Prefecture, regions } from '../components/regions'
-import { Chart } from "../components/Chart"
+import { Chart, chartOptions } from "../components/Chart"
 
 export type Props = {
     update: data.UpdateInfo
@@ -15,7 +15,7 @@ export const PrefPage: NextPage<Props> = props => (
         updatedAt={props.update.updatedAt}
         prefecture={props.prefecture || undefined}
     >
-        {props.charts.map((c, i) => <Chart key={i} data={c.data} options={c.options} />)}
+        {props.charts.map((c, i) => <Chart key={i} data={c.data} options={chartOptions} />)}
     </Layout>
 )
 
