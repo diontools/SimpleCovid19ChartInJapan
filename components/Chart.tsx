@@ -1,5 +1,5 @@
 import { FunctionComponent, useEffect, useRef, useState } from 'react'
-import { ChartConfiguration, Chart as OriginalChart, LineController, PointElement, LineElement, LinearScale, TimeScale } from 'chart.js'
+import { ChartConfiguration, Chart as OriginalChart, LineController, PointElement, LineElement, LinearScale, TimeScale, Legend, Tooltip } from 'chart.js'
 import 'chartjs-adapter-moment'
 import 'moment/locale/ja'
 
@@ -15,6 +15,8 @@ if (typeof window !== 'undefined') {
         PointElement,
         LinearScale,
         TimeScale,
+        Legend,
+        Tooltip,
     )
 }
 
