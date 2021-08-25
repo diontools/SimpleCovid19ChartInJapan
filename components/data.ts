@@ -3,7 +3,7 @@ import * as fs from 'fs'
 import { Chart } from './Chart'
 import { Prefecture } from './regions'
 import '../components/arrayEx'
-import moment from 'moment'
+import { DateTime } from 'luxon'
 
 const currentDir = process.cwd()
 console.log(currentDir)
@@ -103,61 +103,61 @@ export const generateCharts = (prefecture?: Prefecture): ChartProps[] => {
 
     const confirmeds =
         newlyConfirmedCasesDailies
-        .filter(item => item.Prefecture === prefectureName)
-        .groupBy(item => item.Date)
-        .map<[number, number]>(g => [g[0], g[1][0]['Newly confirmed cases']])
+            .filter(item => item.Prefecture === prefectureName)
+            .groupBy(item => item.Date)
+            .map<[number, number]>(g => [g[0], g[1][0]['Newly confirmed cases']])
 
     const confirmeds7ma = sma(confirmeds, 7)
 
     const severes =
         severeCasesDailies
-        .filter(item => item.Prefecture === prefectureName)
-        .groupBy(item => item.Date)
-        .map<[number, number]>(g => [g[0], g[1][0]['Severe cases']])
+            .filter(item => item.Prefecture === prefectureName)
+            .groupBy(item => item.Date)
+            .map<[number, number]>(g => [g[0], g[1][0]['Severe cases']])
 
     const severes7ma = sma(severes, 7)
 
     const deaths =
         deathsCumulativeDailies
-        .filter(item => item.Prefecture === prefectureName)
-        .groupBy(item => item.Date)
-        .map(g => [g[0], g[1][0]['Deaths(Cumulative)']])
-        .map<[number, number]>((item, index, items) => [item[0], item[1] - items[index - 1]?.[1]])
-        .filter(item => !isNaN(item[1]))
+            .filter(item => item.Prefecture === prefectureName)
+            .groupBy(item => item.Date)
+            .map(g => [g[0], g[1][0]['Deaths(Cumulative)']])
+            .map<[number, number]>((item, index, items) => [item[0], item[1] - items[index - 1]?.[1]])
+            .filter(item => !isNaN(item[1]))
 
     const deaths7ma = sma(deaths, 7)
 
     const inpatients =
         requiringInpatientCareEtcDailies
-        .filter(item => item.Prefecture === prefectureName)
-        .groupBy(item => item.Date)
-        .map<[number, number]>(g => [g[0], g[1][0]['Requiring inpatient care'] + g[1][0]['To be confirmed']])
+            .filter(item => item.Prefecture === prefectureName)
+            .groupBy(item => item.Date)
+            .map<[number, number]>(g => [g[0], g[1][0]['Requiring inpatient care'] + g[1][0]['To be confirmed']])
 
     const inpatients7ma = sma(inpatients, 7)
 
     const dischargeds =
         requiringInpatientCareEtcDailies
-        .filter(item => item.Prefecture === prefectureName)
-        .groupBy(item => item.Date)
-        .map<[number, number]>(g => [g[0], g[1][0]['Discharged from hospital or released from treatment']])
-        .map<[number, number]>((item, index, items) => [item[0], item[1] - items[index - 1]?.[1]])
-        .filter(item => !isNaN(item[1]))
+            .filter(item => item.Prefecture === prefectureName)
+            .groupBy(item => item.Date)
+            .map<[number, number]>(g => [g[0], g[1][0]['Discharged from hospital or released from treatment']])
+            .map<[number, number]>((item, index, items) => [item[0], item[1] - items[index - 1]?.[1]])
+            .filter(item => !isNaN(item[1]))
 
     const dischargeds7ma = sma(dischargeds, 7)
 
     const vaccinesByDate =
         vaccineDailies
-        .filter(item => prefectureId ? item.prefecture === prefectureId : true)
-        .groupBy(item => item.date)
+            .filter(item => prefectureId ? item.prefecture === prefectureId : true)
+            .groupBy(item => item.date)
 
     const vaccines1 =
         vaccinesByDate
-            .map<[number, number]>(g => [moment(g[0], 'YYYY-MM-DD', true).utc().valueOf(), g[1].filter(v => v.status === 1).reduce((t, v) => t + v.count, 0)])
+            .map<[number, number]>(g => [DateTime.fromFormat(g[0], 'yyyy-MM-dd', { zone: 'UTC+0' }).valueOf(), g[1].filter(v => v.status === 1).reduce((t, v) => t + v.count, 0)])
             .reduce<[number, number][]>((t, v) => { t.push([v[0], v[1] + (t[t.length - 1]?.[1] || 0)]); return t }, [])
 
     const vaccines2 =
         vaccinesByDate
-            .map<[number, number]>(g => [moment(g[0], 'YYYY-MM-DD', true).utc().valueOf(), g[1].filter(v => v.status === 2).reduce((t, v) => t + v.count, 0)])
+            .map<[number, number]>(g => [DateTime.fromFormat(g[0], 'yyyy-MM-dd', { zone: 'UTC+0' }).valueOf(), g[1].filter(v => v.status === 2).reduce((t, v) => t + v.count, 0)])
             .reduce<[number, number][]>((t, v) => { t.push([v[0], v[1] + (t[t.length - 1]?.[1] || 0)]); return t }, [])
 
     return [{

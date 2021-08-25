@@ -1,7 +1,6 @@
 import { FunctionComponent, useEffect, useRef, useState } from 'react'
 import { ChartConfiguration, Chart as OriginalChart, LineController, PointElement, LineElement, LinearScale, TimeScale, Legend, Tooltip } from 'chart.js'
-import 'chartjs-adapter-moment'
-import 'moment/locale/ja'
+import 'chartjs-adapter-luxon'
 
 if (typeof window !== 'undefined') {
     require('hammerjs')
@@ -77,6 +76,8 @@ const takeOverLabelVisible = (chart: ChartType, newData: ChartConfiguration['dat
     return newData
 }
 
+const timeZoneOffsetInMillisec = new Date().getTimezoneOffset() * 60 * 1000
+
 export const chartOptions: Parameters<typeof Chart>[0]['options'] = {
     interaction: {
         intersect: false,
@@ -88,12 +89,19 @@ export const chartOptions: Parameters<typeof Chart>[0]['options'] = {
         x: {
             type: 'time',
             time: {
-                tooltipFormat: 'YYYY / MM / DD (ddd)',
+                tooltipFormat: 'yyyy / MM / dd (ccc)',
                 displayFormats: {
-                    'day': 'YYYY / MM / DD (ddd)',
-                    'month': 'YYYY / MM',
+                    'day': 'yyyy / MM / dd (ccc)',
+                    'month': 'yyyy / MM',
                 },
                 minUnit: 'day',
+                parser: v => (v as number)
+            },
+            adapters: {
+                date: {
+                    zone: 'UTC+0',
+                    locale: 'ja',
+                },
             },
         },
         y: {

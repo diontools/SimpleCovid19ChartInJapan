@@ -1,7 +1,7 @@
 import * as path from 'path'
 import * as fs from 'fs'
 import fetch from 'node-fetch'
-import * as moment from 'moment'
+import { DateTime } from 'luxon'
 
 type Format = 'int' | 'date' | undefined
 
@@ -76,7 +76,7 @@ const ndJsonToJson = (csv: string) => {
 const parse = (value: string, format: Format) => {
     switch (format) {
         case 'int': return parseInt(value, 10)
-        case 'date': return moment(value, 'YYYY/M/D', true).utc().valueOf()
+        case 'date': return DateTime.fromFormat(value, 'yyyy/M/d', { zone: 'UTC+0' }).valueOf()
         case undefined: return value
         default: const n: never = format
     }
@@ -84,7 +84,7 @@ const parse = (value: string, format: Format) => {
 
 const setUpdateTime = () => {
     const file = path.join(dataDir, 'update.json')
-    const json = JSON.stringify({ updatedAt: Date.now() }, undefined, 4)
+    const json = JSON.stringify({ updatedAt: DateTime.utc().valueOf() }, undefined, 4)
     console.log(file, json)
     fs.writeFileSync(file, json)
 }
