@@ -160,7 +160,7 @@ export const chartOptions: Parameters<typeof Chart>[0]['options'] = {
             time: {
                 tooltipFormat: 'yyyy / MM / dd (ccc)',
                 displayFormats: {
-                    'day': 'yyyy / MM / dd (ccc)',
+                    'day': 'yyyy / MM / dd',
                     'month': 'yyyy / MM',
                 },
                 minUnit: 'day',
