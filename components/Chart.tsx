@@ -1,6 +1,7 @@
 import { FunctionComponent, useEffect, useRef, useState } from 'react'
-import { ChartConfiguration, Chart as OriginalChart, LineController, PointElement, LineElement, LinearScale, TimeScale, Legend, Tooltip } from 'chart.js'
+import { ChartConfiguration, Chart as OriginalChart, LineController, PointElement, LineElement, LinearScale, TimeScale, Legend, Tooltip, ChartEvent, InteractionItem } from 'chart.js'
 import 'chartjs-adapter-luxon'
+import { DateTime } from 'luxon'
 
 if (typeof window !== 'undefined') {
     require('hammerjs')
@@ -46,6 +47,9 @@ export const Chart: FunctionComponent<Props> = props => {
     return <canvas key="canvas-key" ref={canvasRef} />
 }
 
+const dayInMillisec = 24 * 60 * 60 * 1000
+const weekInMillisec = 7 * dayInMillisec
+
 const initializeChart = (canvas: HTMLCanvasElement | null, data: ChartConfiguration['data'], options: ChartConfiguration['options']) => {
     if (!canvas) return
     const ctx = canvas.getContext('2d')
@@ -55,6 +59,73 @@ const initializeChart = (canvas: HTMLCanvasElement | null, data: ChartConfigurat
         type: 'line',
         data: data,
         options: options,
+        plugins: [{
+            id: 'draw-weekends',
+            beforeDraw: chart => {
+                const { ctx, chartArea: { left, top, right, bottom }, scales: { x, y } } = chart
+                const { min, max } = x.getMinMax(false)
+                const oneDayWidth = x.getPixelForValue(min + dayInMillisec) - x.getPixelForValue(min)
+                if (oneDayWidth < 10) return
+
+                const minDateTime = DateTime.fromMillis(min, { zone: 'UTC+0' })
+                const minY = y.getPixelForValue(y.min);
+                const satDate = minDateTime.startOf('day')
+                let satInMillisec = satDate.valueOf() + (7 - satDate.weekday) * dayInMillisec
+
+                const h = minY - top
+                ctx.save();
+                ctx.fillStyle = '#fff4f9';
+                while (satInMillisec < max) {
+                    const startX = x.getPixelForValue(Math.max(satInMillisec, min))
+                    const endX = x.getPixelForValue(Math.min(satInMillisec + dayInMillisec, max))
+                    ctx.fillRect(startX, top, endX - startX, h)
+                    satInMillisec += weekInMillisec
+                }
+                ctx.restore();
+            }
+        }, {
+            id: 'vh-line',
+            afterDraw: (chart, _, options) => {
+                const { ctx, chartArea: { left, top, right, bottom }, scales: { x, y } } = chart
+                const nearest = (chart as any).options.vhLine as InteractionItem | undefined
+                if (!nearest) return
+
+                ctx.save()
+
+                const dataset = chart.data.datasets[nearest.datasetIndex]
+                const value = dataset.data[nearest.index]
+                if (value && typeof value === 'object') {
+                    const date = DateTime.fromMillis(value.x, { zone: 'UTC+0', locale: 'ja' }).toFormat('yyyy / MM / dd (ccc)')
+                    ctx.textBaseline = 'top'
+                    ctx.textAlign = 'end'
+                    ctx.fillText(date, nearest.element.x, top)
+                    ctx.textAlign = 'left'
+                    ctx.fillText(`${dataset.label} ${value.y.toLocaleString()}`, left, nearest.element.y)
+                }
+
+                ctx.strokeStyle = 'black'
+                ctx.lineWidth = 0.5
+                ctx.beginPath()
+                ctx.setLineDash([5, 5])
+                ctx.moveTo(left, nearest.element.y)
+                ctx.lineTo(right, nearest.element.y)
+                ctx.moveTo(nearest.element.x, top)
+                ctx.lineTo(nearest.element.x, bottom)
+                ctx.stroke()
+                ctx.restore()
+            },
+            beforeEvent: (chart, args, options) => {
+                if (args.event.type === 'click' && args.event.native && args.event.x && args.event.y) {
+                    const { left, top, right, bottom } = chart.chartArea
+                    const { x, y } = args.event
+                    if (left <= x && x <= right && top <= y && y <= bottom) {
+                        const nearest = chart.getElementsAtEventForMode(args.event.native, 'point', { axis: 'xy' }, true)[0];
+                        (chart as any).options.vhLine = nearest
+                        args.replay = true
+                    }
+                }
+            }
+        }],
     })
 
     return chart
@@ -75,8 +146,6 @@ const takeOverLabelVisible = (chart: ChartType, newData: ChartConfiguration['dat
     }
     return newData
 }
-
-const timeZoneOffsetInMillisec = new Date().getTimezoneOffset() * 60 * 1000
 
 export const chartOptions: Parameters<typeof Chart>[0]['options'] = {
     interaction: {
