@@ -177,6 +177,7 @@ export const chartOptions: Parameters<typeof Chart>[0]['options'] = {
             type: 'linear',
             position: 'right',
             min: 0,
+            display: 'auto',
             title: {
                 display: true,
                 text: '新規陽性者数',
@@ -187,6 +188,7 @@ export const chartOptions: Parameters<typeof Chart>[0]['options'] = {
             type: 'linear',
             position: 'right',
             min: 0,
+            display: 'auto',
             title: {
                 display: true,
                 text: '重症者数',
@@ -200,6 +202,7 @@ export const chartOptions: Parameters<typeof Chart>[0]['options'] = {
             type: 'linear',
             position: 'right',
             min: 0,
+            display: 'auto',
             title: {
                 display: true,
                 text: '死者数',
@@ -213,6 +216,7 @@ export const chartOptions: Parameters<typeof Chart>[0]['options'] = {
             type: 'linear',
             position: 'right',
             min: 0,
+            display: 'auto',
             title: {
                 display: true,
                 text: '入院治療等を要する者等',
@@ -226,6 +230,7 @@ export const chartOptions: Parameters<typeof Chart>[0]['options'] = {
             type: 'linear',
             position: 'right',
             min: 0,
+            display: 'auto',
             title: {
                 display: true,
                 text: '退院及び療養解除者数',
@@ -239,6 +244,7 @@ export const chartOptions: Parameters<typeof Chart>[0]['options'] = {
             type: 'linear',
             position: 'right',
             min: 0,
+            display: 'auto',
             title: {
                 display: true,
                 text: 'ワクチン接種回数',

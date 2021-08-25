@@ -175,6 +175,7 @@ export const generateCharts = (prefecture?: Prefecture): ChartProps[] => {
                     yAxisID: 'y',
                 }, {
                     label: '新規陽性者数(7日間移動平均)',
+                    hidden: true,
                     backgroundColor: 'lime',
                     borderColor: 'rgba(0,255,0,0.8)',
                     pointRadius: 0,
@@ -195,6 +196,7 @@ export const generateCharts = (prefecture?: Prefecture): ChartProps[] => {
                     yAxisID: 'y1',
                 }, {
                     label: '重症者数(7日間移動平均)',
+                    hidden: true,
                     backgroundColor: 'magenta',
                     borderColor: 'rgba(255,0,255,0.8)',
                     pointRadius: 0,
@@ -215,6 +217,7 @@ export const generateCharts = (prefecture?: Prefecture): ChartProps[] => {
                     yAxisID: 'y2',
                 }, {
                     label: '死者数(7日間移動平均)',
+                    hidden: true,
                     backgroundColor: 'red',
                     borderColor: 'rgba(255,0,0,0.8)',
                     pointRadius: 0,
@@ -235,6 +238,7 @@ export const generateCharts = (prefecture?: Prefecture): ChartProps[] => {
                     yAxisID: 'y3',
                 }, {
                     label: '入院治療等を要する者等(7日間移動平均)',
+                    hidden: true,
                     backgroundColor: 'yellow',
                     borderColor: 'rgba(255,255,0,0.8)',
                     pointRadius: 0,
@@ -255,6 +259,7 @@ export const generateCharts = (prefecture?: Prefecture): ChartProps[] => {
                     yAxisID: 'y4',
                 }, {
                     label: '退院及び療養解除者数(7日間移動平均)',
+                    hidden: true,
                     backgroundColor: 'blue',
                     borderColor: 'rgba(0,0,255,0.8)',
                     pointRadius: 0,
