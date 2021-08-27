@@ -159262,5 +159262,341 @@
   "Requiring inpatient care": 6606,
   "Discharged from hospital or released from treatment": 32320,
   "To be confirmed": 132
+ },
+ {
+  "Date": 1629936000000,
+  "Prefecture": "ALL",
+  "Requiring inpatient care": 225403,
+  "Discharged from hospital or released from treatment": 1132222,
+  "To be confirmed": 12277
+ },
+ {
+  "Date": 1629936000000,
+  "Prefecture": "Hokkaido",
+  "Requiring inpatient care": 5051,
+  "Discharged from hospital or released from treatment": 48471,
+  "To be confirmed": 79
+ },
+ {
+  "Date": 1629936000000,
+  "Prefecture": "Aomori",
+  "Requiring inpatient care": 752,
+  "Discharged from hospital or released from treatment": 3166,
+  "To be confirmed": 0
+ },
+ {
+  "Date": 1629936000000,
+  "Prefecture": "Iwate",
+  "Requiring inpatient care": 340,
+  "Discharged from hospital or released from treatment": 2422,
+  "To be confirmed": 0
+ },
+ {
+  "Date": 1629936000000,
+  "Prefecture": "Miyagi",
+  "Requiring inpatient care": 2238,
+  "Discharged from hospital or released from treatment": 11524,
+  "To be confirmed": 129
+ },
+ {
+  "Date": 1629936000000,
+  "Prefecture": "Akita",
+  "Requiring inpatient care": 296,
+  "Discharged from hospital or released from treatment": 1220,
+  "To be confirmed": 0
+ },
+ {
+  "Date": 1629936000000,
+  "Prefecture": "Yamagata",
+  "Requiring inpatient care": 432,
+  "Discharged from hospital or released from treatment": 2535,
+  "To be confirmed": 0
+ },
+ {
+  "Date": 1629936000000,
+  "Prefecture": "Fukushima",
+  "Requiring inpatient care": 1032,
+  "Discharged from hospital or released from treatment": 7134,
+  "To be confirmed": 0
+ },
+ {
+  "Date": 1629936000000,
+  "Prefecture": "Ibaraki",
+  "Requiring inpatient care": 2501,
+  "Discharged from hospital or released from treatment": 16729,
+  "To be confirmed": 0
+ },
+ {
+  "Date": 1629936000000,
+  "Prefecture": "Tochigi",
+  "Requiring inpatient care": 2174,
+  "Discharged from hospital or released from treatment": 10250,
+  "To be confirmed": 0
+ },
+ {
+  "Date": 1629936000000,
+  "Prefecture": "Gunma",
+  "Requiring inpatient care": 2591,
+  "Discharged from hospital or released from treatment": 11151,
+  "To be confirmed": 0
+ },
+ {
+  "Date": 1629936000000,
+  "Prefecture": "Saitama",
+  "Requiring inpatient care": 26116,
+  "Discharged from hospital or released from treatment": 63080,
+  "To be confirmed": 4288
+ },
+ {
+  "Date": 1629936000000,
+  "Prefecture": "Chiba",
+  "Requiring inpatient care": 14002,
+  "Discharged from hospital or released from treatment": 65410,
+  "To be confirmed": 0
+ },
+ {
+  "Date": 1629936000000,
+  "Prefecture": "Tokyo",
+  "Requiring inpatient care": 42460,
+  "Discharged from hospital or released from treatment": 282986,
+  "To be confirmed": 0
+ },
+ {
+  "Date": 1629936000000,
+  "Prefecture": "Kanagawa",
+  "Requiring inpatient care": 18138,
+  "Discharged from hospital or released from treatment": 117883,
+  "To be confirmed": 0
+ },
+ {
+  "Date": 1629936000000,
+  "Prefecture": "Niigata",
+  "Requiring inpatient care": 1061,
+  "Discharged from hospital or released from treatment": 5201,
+  "To be confirmed": 0
+ },
+ {
+  "Date": 1629936000000,
+  "Prefecture": "Toyama",
+  "Requiring inpatient care": 1156,
+  "Discharged from hospital or released from treatment": 2890,
+  "To be confirmed": 0
+ },
+ {
+  "Date": 1629936000000,
+  "Prefecture": "Ishikawa",
+  "Requiring inpatient care": 736,
+  "Discharged from hospital or released from treatment": 6131,
+  "To be confirmed": 15
+ },
+ {
+  "Date": 1629936000000,
+  "Prefecture": "Fukui",
+  "Requiring inpatient care": 294,
+  "Discharged from hospital or released from treatment": 2066,
+  "To be confirmed": 0
+ },
+ {
+  "Date": 1629936000000,
+  "Prefecture": "Yamanashi",
+  "Requiring inpatient care": 712,
+  "Discharged from hospital or released from treatment": 3371,
+  "To be confirmed": 3
+ },
+ {
+  "Date": 1629936000000,
+  "Prefecture": "Nagano",
+  "Requiring inpatient care": 867,
+  "Discharged from hospital or released from treatment": 6378,
+  "To be confirmed": 161
+ },
+ {
+  "Date": 1629936000000,
+  "Prefecture": "Gifu",
+  "Requiring inpatient care": 2651,
+  "Discharged from hospital or released from treatment": 11285,
+  "To be confirmed": 188
+ },
+ {
+  "Date": 1629936000000,
+  "Prefecture": "Shizuoka",
+  "Requiring inpatient care": 5802,
+  "Discharged from hospital or released from treatment": 13198,
+  "To be confirmed": 0
+ },
+ {
+  "Date": 1629936000000,
+  "Prefecture": "Aichi",
+  "Requiring inpatient care": 13356,
+  "Discharged from hospital or released from treatment": 58308,
+  "To be confirmed": 0
+ },
+ {
+  "Date": 1629936000000,
+  "Prefecture": "Mie",
+  "Requiring inpatient care": 3869,
+  "Discharged from hospital or released from treatment": 7000,
+  "To be confirmed": 208
+ },
+ {
+  "Date": 1629936000000,
+  "Prefecture": "Shiga",
+  "Requiring inpatient care": 2464,
+  "Discharged from hospital or released from treatment": 7220,
+  "To be confirmed": 0
+ },
+ {
+  "Date": 1629936000000,
+  "Prefecture": "Kyoto",
+  "Requiring inpatient care": 6434,
+  "Discharged from hospital or released from treatment": 20587,
+  "To be confirmed": 608
+ },
+ {
+  "Date": 1629936000000,
+  "Prefecture": "Osaka",
+  "Requiring inpatient care": 24040,
+  "Discharged from hospital or released from treatment": 128328,
+  "To be confirmed": 1785
+ },
+ {
+  "Date": 1629936000000,
+  "Prefecture": "Hyogo",
+  "Requiring inpatient care": 7787,
+  "Discharged from hospital or released from treatment": 50842,
+  "To be confirmed": 1
+ },
+ {
+  "Date": 1629936000000,
+  "Prefecture": "Nara",
+  "Requiring inpatient care": 1633,
+  "Discharged from hospital or released from treatment": 10630,
+  "To be confirmed": 0
+ },
+ {
+  "Date": 1629936000000,
+  "Prefecture": "Wakayama",
+  "Requiring inpatient care": 562,
+  "Discharged from hospital or released from treatment": 3584,
+  "To be confirmed": 95
+ },
+ {
+  "Date": 1629936000000,
+  "Prefecture": "Tottori",
+  "Requiring inpatient care": 259,
+  "Discharged from hospital or released from treatment": 1057,
+  "To be confirmed": 17
+ },
+ {
+  "Date": 1629936000000,
+  "Prefecture": "Shimane",
+  "Requiring inpatient care": 178,
+  "Discharged from hospital or released from treatment": 1031,
+  "To be confirmed": 0
+ },
+ {
+  "Date": 1629936000000,
+  "Prefecture": "Okayama",
+  "Requiring inpatient care": 1485,
+  "Discharged from hospital or released from treatment": 8975,
+  "To be confirmed": 1860
+ },
+ {
+  "Date": 1629936000000,
+  "Prefecture": "Hiroshima",
+  "Requiring inpatient care": 1587,
+  "Discharged from hospital or released from treatment": 13952,
+  "To be confirmed": 1118
+ },
+ {
+  "Date": 1629936000000,
+  "Prefecture": "Yamaguchi",
+  "Requiring inpatient care": 804,
+  "Discharged from hospital or released from treatment": 3742,
+  "To be confirmed": 0
+ },
+ {
+  "Date": 1629936000000,
+  "Prefecture": "Tokushima",
+  "Requiring inpatient care": 436,
+  "Discharged from hospital or released from treatment": 1940,
+  "To be confirmed": 0
+ },
+ {
+  "Date": 1629936000000,
+  "Prefecture": "Kagawa",
+  "Requiring inpatient care": 867,
+  "Discharged from hospital or released from treatment": 3026,
+  "To be confirmed": 1
+ },
+ {
+  "Date": 1629936000000,
+  "Prefecture": "Ehime",
+  "Requiring inpatient care": 720,
+  "Discharged from hospital or released from treatment": 3604,
+  "To be confirmed": 0
+ },
+ {
+  "Date": 1629936000000,
+  "Prefecture": "Kochi",
+  "Requiring inpatient care": 687,
+  "Discharged from hospital or released from treatment": 2395,
+  "To be confirmed": 0
+ },
+ {
+  "Date": 1629936000000,
+  "Prefecture": "Fukuoka",
+  "Requiring inpatient care": 11181,
+  "Discharged from hospital or released from treatment": 48121,
+  "To be confirmed": 989
+ },
+ {
+  "Date": 1629936000000,
+  "Prefecture": "Saga",
+  "Requiring inpatient care": 1087,
+  "Discharged from hospital or released from treatment": 3371,
+  "To be confirmed": 299
+ },
+ {
+  "Date": 1629936000000,
+  "Prefecture": "Nagasaki",
+  "Requiring inpatient care": 792,
+  "Discharged from hospital or released from treatment": 4123,
+  "To be confirmed": 4
+ },
+ {
+  "Date": 1629936000000,
+  "Prefecture": "Kumamoto",
+  "Requiring inpatient care": 2211,
+  "Discharged from hospital or released from treatment": 9170,
+  "To be confirmed": 0
+ },
+ {
+  "Date": 1629936000000,
+  "Prefecture": "Oita",
+  "Requiring inpatient care": 1626,
+  "Discharged from hospital or released from treatment": 4623,
+  "To be confirmed": 0
+ },
+ {
+  "Date": 1629936000000,
+  "Prefecture": "Miyazaki",
+  "Requiring inpatient care": 1218,
+  "Discharged from hospital or released from treatment": 3756,
+  "To be confirmed": 118
+ },
+ {
+  "Date": 1629936000000,
+  "Prefecture": "Kagoshima",
+  "Requiring inpatient care": 2020,
+  "Discharged from hospital or released from treatment": 5333,
+  "To be confirmed": 148
+ },
+ {
+  "Date": 1629936000000,
+  "Prefecture": "Okinawa",
+  "Requiring inpatient care": 6698,
+  "Discharged from hospital or released from treatment": 32874,
+  "To be confirmed": 163
  }
 ]
