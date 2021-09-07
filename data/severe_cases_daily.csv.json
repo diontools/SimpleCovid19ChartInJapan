@@ -116398,5 +116398,245 @@
   "Date": 1630800000000,
   "Prefecture": "Okinawa",
   "Severe cases": 130
+ },
+ {
+  "Date": 1630886400000,
+  "Prefecture": "ALL",
+  "Severe cases": 2209
+ },
+ {
+  "Date": 1630886400000,
+  "Prefecture": "Hokkaido",
+  "Severe cases": 27
+ },
+ {
+  "Date": 1630886400000,
+  "Prefecture": "Aomori",
+  "Severe cases": 2
+ },
+ {
+  "Date": 1630886400000,
+  "Prefecture": "Iwate",
+  "Severe cases": 1
+ },
+ {
+  "Date": 1630886400000,
+  "Prefecture": "Miyagi",
+  "Severe cases": 26
+ },
+ {
+  "Date": 1630886400000,
+  "Prefecture": "Akita",
+  "Severe cases": 1
+ },
+ {
+  "Date": 1630886400000,
+  "Prefecture": "Yamagata",
+  "Severe cases": 5
+ },
+ {
+  "Date": 1630886400000,
+  "Prefecture": "Fukushima",
+  "Severe cases": 14
+ },
+ {
+  "Date": 1630886400000,
+  "Prefecture": "Ibaraki",
+  "Severe cases": 27
+ },
+ {
+  "Date": 1630886400000,
+  "Prefecture": "Tochigi",
+  "Severe cases": 17
+ },
+ {
+  "Date": 1630886400000,
+  "Prefecture": "Gunma",
+  "Severe cases": 29
+ },
+ {
+  "Date": 1630886400000,
+  "Prefecture": "Saitama",
+  "Severe cases": 144
+ },
+ {
+  "Date": 1630886400000,
+  "Prefecture": "Chiba",
+  "Severe cases": 102
+ },
+ {
+  "Date": 1630886400000,
+  "Prefecture": "Tokyo",
+  "Severe cases": 267
+ },
+ {
+  "Date": 1630886400000,
+  "Prefecture": "Kanagawa",
+  "Severe cases": 246
+ },
+ {
+  "Date": 1630886400000,
+  "Prefecture": "Niigata",
+  "Severe cases": 10
+ },
+ {
+  "Date": 1630886400000,
+  "Prefecture": "Toyama",
+  "Severe cases": 15
+ },
+ {
+  "Date": 1630886400000,
+  "Prefecture": "Ishikawa",
+  "Severe cases": 4
+ },
+ {
+  "Date": 1630886400000,
+  "Prefecture": "Fukui",
+  "Severe cases": 2
+ },
+ {
+  "Date": 1630886400000,
+  "Prefecture": "Yamanashi",
+  "Severe cases": 3
+ },
+ {
+  "Date": 1630886400000,
+  "Prefecture": "Nagano",
+  "Severe cases": 3
+ },
+ {
+  "Date": 1630886400000,
+  "Prefecture": "Gifu",
+  "Severe cases": 22
+ },
+ {
+  "Date": 1630886400000,
+  "Prefecture": "Shizuoka",
+  "Severe cases": 29
+ },
+ {
+  "Date": 1630886400000,
+  "Prefecture": "Aichi",
+  "Severe cases": 88
+ },
+ {
+  "Date": 1630886400000,
+  "Prefecture": "Mie",
+  "Severe cases": 30
+ },
+ {
+  "Date": 1630886400000,
+  "Prefecture": "Shiga",
+  "Severe cases": 11
+ },
+ {
+  "Date": 1630886400000,
+  "Prefecture": "Kyoto",
+  "Severe cases": 91
+ },
+ {
+  "Date": 1630886400000,
+  "Prefecture": "Osaka",
+  "Severe cases": 594
+ },
+ {
+  "Date": 1630886400000,
+  "Prefecture": "Hyogo",
+  "Severe cases": 78
+ },
+ {
+  "Date": 1630886400000,
+  "Prefecture": "Nara",
+  "Severe cases": 18
+ },
+ {
+  "Date": 1630886400000,
+  "Prefecture": "Wakayama",
+  "Severe cases": 23
+ },
+ {
+  "Date": 1630886400000,
+  "Prefecture": "Tottori",
+  "Severe cases": 2
+ },
+ {
+  "Date": 1630886400000,
+  "Prefecture": "Shimane",
+  "Severe cases": 2
+ },
+ {
+  "Date": 1630886400000,
+  "Prefecture": "Okayama",
+  "Severe cases": 21
+ },
+ {
+  "Date": 1630886400000,
+  "Prefecture": "Hiroshima",
+  "Severe cases": 21
+ },
+ {
+  "Date": 1630886400000,
+  "Prefecture": "Yamaguchi",
+  "Severe cases": 4
+ },
+ {
+  "Date": 1630886400000,
+  "Prefecture": "Tokushima",
+  "Severe cases": 6
+ },
+ {
+  "Date": 1630886400000,
+  "Prefecture": "Kagawa",
+  "Severe cases": 9
+ },
+ {
+  "Date": 1630886400000,
+  "Prefecture": "Ehime",
+  "Severe cases": 5
+ },
+ {
+  "Date": 1630886400000,
+  "Prefecture": "Kochi",
+  "Severe cases": 7
+ },
+ {
+  "Date": 1630886400000,
+  "Prefecture": "Fukuoka",
+  "Severe cases": 35
+ },
+ {
+  "Date": 1630886400000,
+  "Prefecture": "Saga",
+  "Severe cases": 2
+ },
+ {
+  "Date": 1630886400000,
+  "Prefecture": "Nagasaki",
+  "Severe cases": 2
+ },
+ {
+  "Date": 1630886400000,
+  "Prefecture": "Kumamoto",
+  "Severe cases": 21
+ },
+ {
+  "Date": 1630886400000,
+  "Prefecture": "Oita",
+  "Severe cases": 4
+ },
+ {
+  "Date": 1630886400000,
+  "Prefecture": "Miyazaki",
+  "Severe cases": 8
+ },
+ {
+  "Date": 1630886400000,
+  "Prefecture": "Kagoshima",
+  "Severe cases": 6
+ },
+ {
+  "Date": 1630886400000,
+  "Prefecture": "Okinawa",
+  "Severe cases": 125
  }
 ]
