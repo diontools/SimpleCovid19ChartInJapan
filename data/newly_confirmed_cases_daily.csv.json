@@ -145678,5 +145678,245 @@
   "Date": 1632355200000,
   "Prefecture": "Okinawa",
   "Newly confirmed cases": 141
+ },
+ {
+  "Date": 1632441600000,
+  "Prefecture": "ALL",
+  "Newly confirmed cases": 2085
+ },
+ {
+  "Date": 1632441600000,
+  "Prefecture": "Hokkaido",
+  "Newly confirmed cases": 63
+ },
+ {
+  "Date": 1632441600000,
+  "Prefecture": "Aomori",
+  "Newly confirmed cases": 34
+ },
+ {
+  "Date": 1632441600000,
+  "Prefecture": "Iwate",
+  "Newly confirmed cases": 0
+ },
+ {
+  "Date": 1632441600000,
+  "Prefecture": "Miyagi",
+  "Newly confirmed cases": 25
+ },
+ {
+  "Date": 1632441600000,
+  "Prefecture": "Akita",
+  "Newly confirmed cases": 1
+ },
+ {
+  "Date": 1632441600000,
+  "Prefecture": "Yamagata",
+  "Newly confirmed cases": 2
+ },
+ {
+  "Date": 1632441600000,
+  "Prefecture": "Fukushima",
+  "Newly confirmed cases": 6
+ },
+ {
+  "Date": 1632441600000,
+  "Prefecture": "Ibaraki",
+  "Newly confirmed cases": 71
+ },
+ {
+  "Date": 1632441600000,
+  "Prefecture": "Tochigi",
+  "Newly confirmed cases": 17
+ },
+ {
+  "Date": 1632441600000,
+  "Prefecture": "Gunma",
+  "Newly confirmed cases": 13
+ },
+ {
+  "Date": 1632441600000,
+  "Prefecture": "Saitama",
+  "Newly confirmed cases": 142
+ },
+ {
+  "Date": 1632441600000,
+  "Prefecture": "Chiba",
+  "Newly confirmed cases": 119
+ },
+ {
+  "Date": 1632441600000,
+  "Prefecture": "Tokyo",
+  "Newly confirmed cases": 235
+ },
+ {
+  "Date": 1632441600000,
+  "Prefecture": "Kanagawa",
+  "Newly confirmed cases": 251
+ },
+ {
+  "Date": 1632441600000,
+  "Prefecture": "Niigata",
+  "Newly confirmed cases": 20
+ },
+ {
+  "Date": 1632441600000,
+  "Prefecture": "Toyama",
+  "Newly confirmed cases": 5
+ },
+ {
+  "Date": 1632441600000,
+  "Prefecture": "Ishikawa",
+  "Newly confirmed cases": 7
+ },
+ {
+  "Date": 1632441600000,
+  "Prefecture": "Fukui",
+  "Newly confirmed cases": 4
+ },
+ {
+  "Date": 1632441600000,
+  "Prefecture": "Yamanashi",
+  "Newly confirmed cases": 16
+ },
+ {
+  "Date": 1632441600000,
+  "Prefecture": "Nagano",
+  "Newly confirmed cases": 14
+ },
+ {
+  "Date": 1632441600000,
+  "Prefecture": "Gifu",
+  "Newly confirmed cases": 25
+ },
+ {
+  "Date": 1632441600000,
+  "Prefecture": "Shizuoka",
+  "Newly confirmed cases": 32
+ },
+ {
+  "Date": 1632441600000,
+  "Prefecture": "Aichi",
+  "Newly confirmed cases": 173
+ },
+ {
+  "Date": 1632441600000,
+  "Prefecture": "Mie",
+  "Newly confirmed cases": 12
+ },
+ {
+  "Date": 1632441600000,
+  "Prefecture": "Shiga",
+  "Newly confirmed cases": 12
+ },
+ {
+  "Date": 1632441600000,
+  "Prefecture": "Kyoto",
+  "Newly confirmed cases": 39
+ },
+ {
+  "Date": 1632441600000,
+  "Prefecture": "Osaka",
+  "Newly confirmed cases": 240
+ },
+ {
+  "Date": 1632441600000,
+  "Prefecture": "Hyogo",
+  "Newly confirmed cases": 115
+ },
+ {
+  "Date": 1632441600000,
+  "Prefecture": "Nara",
+  "Newly confirmed cases": 22
+ },
+ {
+  "Date": 1632441600000,
+  "Prefecture": "Wakayama",
+  "Newly confirmed cases": 26
+ },
+ {
+  "Date": 1632441600000,
+  "Prefecture": "Tottori",
+  "Newly confirmed cases": 1
+ },
+ {
+  "Date": 1632441600000,
+  "Prefecture": "Shimane",
+  "Newly confirmed cases": 3
+ },
+ {
+  "Date": 1632441600000,
+  "Prefecture": "Okayama",
+  "Newly confirmed cases": 13
+ },
+ {
+  "Date": 1632441600000,
+  "Prefecture": "Hiroshima",
+  "Newly confirmed cases": 44
+ },
+ {
+  "Date": 1632441600000,
+  "Prefecture": "Yamaguchi",
+  "Newly confirmed cases": 9
+ },
+ {
+  "Date": 1632441600000,
+  "Prefecture": "Tokushima",
+  "Newly confirmed cases": 4
+ },
+ {
+  "Date": 1632441600000,
+  "Prefecture": "Kagawa",
+  "Newly confirmed cases": 4
+ },
+ {
+  "Date": 1632441600000,
+  "Prefecture": "Ehime",
+  "Newly confirmed cases": 16
+ },
+ {
+  "Date": 1632441600000,
+  "Prefecture": "Kochi",
+  "Newly confirmed cases": 10
+ },
+ {
+  "Date": 1632441600000,
+  "Prefecture": "Fukuoka",
+  "Newly confirmed cases": 125
+ },
+ {
+  "Date": 1632441600000,
+  "Prefecture": "Saga",
+  "Newly confirmed cases": 5
+ },
+ {
+  "Date": 1632441600000,
+  "Prefecture": "Nagasaki",
+  "Newly confirmed cases": 5
+ },
+ {
+  "Date": 1632441600000,
+  "Prefecture": "Kumamoto",
+  "Newly confirmed cases": 12
+ },
+ {
+  "Date": 1632441600000,
+  "Prefecture": "Oita",
+  "Newly confirmed cases": 23
+ },
+ {
+  "Date": 1632441600000,
+  "Prefecture": "Miyazaki",
+  "Newly confirmed cases": 7
+ },
+ {
+  "Date": 1632441600000,
+  "Prefecture": "Kagoshima",
+  "Newly confirmed cases": 2
+ },
+ {
+  "Date": 1632441600000,
+  "Prefecture": "Okinawa",
+  "Newly confirmed cases": 61
  }
 ]
