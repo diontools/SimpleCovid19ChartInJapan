@@ -142558,5 +142558,245 @@
   "Date": 1640217600000,
   "Prefecture": "Okinawa",
   "Severe cases": 1
+ },
+ {
+  "Date": 1640304000000,
+  "Prefecture": "ALL",
+  "Severe cases": 37
+ },
+ {
+  "Date": 1640304000000,
+  "Prefecture": "Hokkaido",
+  "Severe cases": 0
+ },
+ {
+  "Date": 1640304000000,
+  "Prefecture": "Aomori",
+  "Severe cases": 0
+ },
+ {
+  "Date": 1640304000000,
+  "Prefecture": "Iwate",
+  "Severe cases": 0
+ },
+ {
+  "Date": 1640304000000,
+  "Prefecture": "Miyagi",
+  "Severe cases": 0
+ },
+ {
+  "Date": 1640304000000,
+  "Prefecture": "Akita",
+  "Severe cases": 0
+ },
+ {
+  "Date": 1640304000000,
+  "Prefecture": "Yamagata",
+  "Severe cases": 0
+ },
+ {
+  "Date": 1640304000000,
+  "Prefecture": "Fukushima",
+  "Severe cases": 0
+ },
+ {
+  "Date": 1640304000000,
+  "Prefecture": "Ibaraki",
+  "Severe cases": 1
+ },
+ {
+  "Date": 1640304000000,
+  "Prefecture": "Tochigi",
+  "Severe cases": 0
+ },
+ {
+  "Date": 1640304000000,
+  "Prefecture": "Gunma",
+  "Severe cases": 1
+ },
+ {
+  "Date": 1640304000000,
+  "Prefecture": "Saitama",
+  "Severe cases": 1
+ },
+ {
+  "Date": 1640304000000,
+  "Prefecture": "Chiba",
+  "Severe cases": 0
+ },
+ {
+  "Date": 1640304000000,
+  "Prefecture": "Tokyo",
+  "Severe cases": 2
+ },
+ {
+  "Date": 1640304000000,
+  "Prefecture": "Kanagawa",
+  "Severe cases": 2
+ },
+ {
+  "Date": 1640304000000,
+  "Prefecture": "Niigata",
+  "Severe cases": 0
+ },
+ {
+  "Date": 1640304000000,
+  "Prefecture": "Toyama",
+  "Severe cases": 0
+ },
+ {
+  "Date": 1640304000000,
+  "Prefecture": "Ishikawa",
+  "Severe cases": 0
+ },
+ {
+  "Date": 1640304000000,
+  "Prefecture": "Fukui",
+  "Severe cases": 0
+ },
+ {
+  "Date": 1640304000000,
+  "Prefecture": "Yamanashi",
+  "Severe cases": 0
+ },
+ {
+  "Date": 1640304000000,
+  "Prefecture": "Nagano",
+  "Severe cases": 0
+ },
+ {
+  "Date": 1640304000000,
+  "Prefecture": "Gifu",
+  "Severe cases": 0
+ },
+ {
+  "Date": 1640304000000,
+  "Prefecture": "Shizuoka",
+  "Severe cases": 0
+ },
+ {
+  "Date": 1640304000000,
+  "Prefecture": "Aichi",
+  "Severe cases": 0
+ },
+ {
+  "Date": 1640304000000,
+  "Prefecture": "Mie",
+  "Severe cases": 0
+ },
+ {
+  "Date": 1640304000000,
+  "Prefecture": "Shiga",
+  "Severe cases": 0
+ },
+ {
+  "Date": 1640304000000,
+  "Prefecture": "Kyoto",
+  "Severe cases": 3
+ },
+ {
+  "Date": 1640304000000,
+  "Prefecture": "Osaka",
+  "Severe cases": 19
+ },
+ {
+  "Date": 1640304000000,
+  "Prefecture": "Hyogo",
+  "Severe cases": 2
+ },
+ {
+  "Date": 1640304000000,
+  "Prefecture": "Nara",
+  "Severe cases": 0
+ },
+ {
+  "Date": 1640304000000,
+  "Prefecture": "Wakayama",
+  "Severe cases": 0
+ },
+ {
+  "Date": 1640304000000,
+  "Prefecture": "Tottori",
+  "Severe cases": 0
+ },
+ {
+  "Date": 1640304000000,
+  "Prefecture": "Shimane",
+  "Severe cases": 0
+ },
+ {
+  "Date": 1640304000000,
+  "Prefecture": "Okayama",
+  "Severe cases": 1
+ },
+ {
+  "Date": 1640304000000,
+  "Prefecture": "Hiroshima",
+  "Severe cases": 0
+ },
+ {
+  "Date": 1640304000000,
+  "Prefecture": "Yamaguchi",
+  "Severe cases": 0
+ },
+ {
+  "Date": 1640304000000,
+  "Prefecture": "Tokushima",
+  "Severe cases": 0
+ },
+ {
+  "Date": 1640304000000,
+  "Prefecture": "Kagawa",
+  "Severe cases": 0
+ },
+ {
+  "Date": 1640304000000,
+  "Prefecture": "Ehime",
+  "Severe cases": 0
+ },
+ {
+  "Date": 1640304000000,
+  "Prefecture": "Kochi",
+  "Severe cases": 0
+ },
+ {
+  "Date": 1640304000000,
+  "Prefecture": "Fukuoka",
+  "Severe cases": 2
+ },
+ {
+  "Date": 1640304000000,
+  "Prefecture": "Saga",
+  "Severe cases": 0
+ },
+ {
+  "Date": 1640304000000,
+  "Prefecture": "Nagasaki",
+  "Severe cases": 0
+ },
+ {
+  "Date": 1640304000000,
+  "Prefecture": "Kumamoto",
+  "Severe cases": 0
+ },
+ {
+  "Date": 1640304000000,
+  "Prefecture": "Oita",
+  "Severe cases": 0
+ },
+ {
+  "Date": 1640304000000,
+  "Prefecture": "Miyazaki",
+  "Severe cases": 0
+ },
+ {
+  "Date": 1640304000000,
+  "Prefecture": "Kagoshima",
+  "Severe cases": 0
+ },
+ {
+  "Date": 1640304000000,
+  "Prefecture": "Okinawa",
+  "Severe cases": 3
  }
 ]
