@@ -68,7 +68,7 @@ export type VaccineDaily = {
     gender: 'M' | 'F' | 'U'
     age: '-64' | '65-' | 'UNK'
     medical_worker: boolean
-    status: 1 | 2
+    status: 1 | 2 | 3
     count: number
 }
 
@@ -158,6 +158,11 @@ export const generateCharts = (prefecture?: Prefecture): ChartProps[] => {
     const vaccines2 =
         vaccinesByDate
             .map<[number, number]>(g => [DateTime.fromFormat(g[0], 'yyyy-MM-dd', { zone: 'UTC+0' }).valueOf(), g[1].filter(v => v.status === 2).reduce((t, v) => t + v.count, 0)])
+            .reduce<[number, number][]>((t, v) => { t.push([v[0], v[1] + (t[t.length - 1]?.[1] || 0)]); return t }, [])
+
+    const vaccines3 =
+        vaccinesByDate
+            .map<[number, number]>(g => [DateTime.fromFormat(g[0], 'yyyy-MM-dd', { zone: 'UTC+0' }).valueOf(), g[1].filter(v => v.status === 3).reduce((t, v) => t + v.count, 0)])
             .reduce<[number, number][]>((t, v) => { t.push([v[0], v[1] + (t[t.length - 1]?.[1] || 0)]); return t }, [])
 
     return [{
@@ -284,6 +289,16 @@ export const generateCharts = (prefecture?: Prefecture): ChartProps[] => {
                     borderColor: 'rgba(128,128,128,0.3)',
                     pointRadius: 2,
                     data: vaccines2.map(g => ({
+                        x: g[0],
+                        y: g[1],
+                    })),
+                    yAxisID: 'y5',
+                }, {
+                    label: 'ワクチン接種回数(3回目)',
+                    backgroundColor: 'darkgray',
+                    borderColor: 'rgba(128,128,128,0.3)',
+                    pointRadius: 2,
+                    data: vaccines3.map(g => ({
                         x: g[0],
                         y: g[1],
                     })),

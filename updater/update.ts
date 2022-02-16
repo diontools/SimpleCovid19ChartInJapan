@@ -110,7 +110,7 @@ const main = async () => {
 
         return Object.entries(prefs).map(a => a[1])
     })
-    await downloadNdJson('https://vrs-data.cio.go.jp/vaccination/opendata/latest/prefecture.ndjson')
+    await downloadNdJson('https://data.vrs.digital.go.jp/vaccination/opendata/latest/prefecture.ndjson')
     setUpdateTime()
 }
 
