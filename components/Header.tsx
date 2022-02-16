@@ -33,7 +33,7 @@ export const Header: FunctionComponent<Props> = props => {
                         感染状況データソース: <Link href="https://covid19.mhlw.go.jp/extensions/public/index.html" linkType="Text">データからわかる－新型コロナウイルス感染症情報－ | 厚生労働省</Link>
                     </div>
                     <div>
-                        ワクチンデータソース: <Link href="https://cio.go.jp/c19vaccine_dashboard" linkType="Text">新型コロナワクチンの接種状況（一般接種（高齢者含む）） | 政府CIOポータル</Link>
+                        ワクチンデータソース: <Link href="https://info.vrs.digital.go.jp/dashboard/" linkType="Text">新型コロナワクチンの接種状況 ワクチン接種記録システム（VRS）</Link>
                     </div>
                 </div>
             </div>}
