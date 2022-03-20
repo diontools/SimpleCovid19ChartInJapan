@@ -162958,5 +162958,245 @@
   "Date": 1647561600000,
   "Prefecture": "Okinawa",
   "Deaths(Cumulative)": 433
+ },
+ {
+  "Date": 1647648000000,
+  "Prefecture": "ALL",
+  "Deaths(Cumulative)": 27037
+ },
+ {
+  "Date": 1647648000000,
+  "Prefecture": "Hokkaido",
+  "Deaths(Cumulative)": 1894
+ },
+ {
+  "Date": 1647648000000,
+  "Prefecture": "Aomori",
+  "Deaths(Cumulative)": 80
+ },
+ {
+  "Date": 1647648000000,
+  "Prefecture": "Iwate",
+  "Deaths(Cumulative)": 70
+ },
+ {
+  "Date": 1647648000000,
+  "Prefecture": "Miyagi",
+  "Deaths(Cumulative)": 166
+ },
+ {
+  "Date": 1647648000000,
+  "Prefecture": "Akita",
+  "Deaths(Cumulative)": 43
+ },
+ {
+  "Date": 1647648000000,
+  "Prefecture": "Yamagata",
+  "Deaths(Cumulative)": 76
+ },
+ {
+  "Date": 1647648000000,
+  "Prefecture": "Fukushima",
+  "Deaths(Cumulative)": 189
+ },
+ {
+  "Date": 1647648000000,
+  "Prefecture": "Ibaraki",
+  "Deaths(Cumulative)": 356
+ },
+ {
+  "Date": 1647648000000,
+  "Prefecture": "Tochigi",
+  "Deaths(Cumulative)": 229
+ },
+ {
+  "Date": 1647648000000,
+  "Prefecture": "Gunma",
+  "Deaths(Cumulative)": 275
+ },
+ {
+  "Date": 1647648000000,
+  "Prefecture": "Saitama",
+  "Deaths(Cumulative)": 1291
+ },
+ {
+  "Date": 1647648000000,
+  "Prefecture": "Chiba",
+  "Deaths(Cumulative)": 1588
+ },
+ {
+  "Date": 1647648000000,
+  "Prefecture": "Tokyo",
+  "Deaths(Cumulative)": 4055
+ },
+ {
+  "Date": 1647648000000,
+  "Prefecture": "Kanagawa",
+  "Deaths(Cumulative)": 1944
+ },
+ {
+  "Date": 1647648000000,
+  "Prefecture": "Niigata",
+  "Deaths(Cumulative)": 85
+ },
+ {
+  "Date": 1647648000000,
+  "Prefecture": "Toyama",
+  "Deaths(Cumulative)": 71
+ },
+ {
+  "Date": 1647648000000,
+  "Prefecture": "Ishikawa",
+  "Deaths(Cumulative)": 181
+ },
+ {
+  "Date": 1647648000000,
+  "Prefecture": "Fukui",
+  "Deaths(Cumulative)": 41
+ },
+ {
+  "Date": 1647648000000,
+  "Prefecture": "Yamanashi",
+  "Deaths(Cumulative)": 61
+ },
+ {
+  "Date": 1647648000000,
+  "Prefecture": "Nagano",
+  "Deaths(Cumulative)": 159
+ },
+ {
+  "Date": 1647648000000,
+  "Prefecture": "Gifu",
+  "Deaths(Cumulative)": 304
+ },
+ {
+  "Date": 1647648000000,
+  "Prefecture": "Shizuoka",
+  "Deaths(Cumulative)": 372
+ },
+ {
+  "Date": 1647648000000,
+  "Prefecture": "Aichi",
+  "Deaths(Cumulative)": 1905
+ },
+ {
+  "Date": 1647648000000,
+  "Prefecture": "Mie",
+  "Deaths(Cumulative)": 261
+ },
+ {
+  "Date": 1647648000000,
+  "Prefecture": "Shiga",
+  "Deaths(Cumulative)": 183
+ },
+ {
+  "Date": 1647648000000,
+  "Prefecture": "Kyoto",
+  "Deaths(Cumulative)": 589
+ },
+ {
+  "Date": 1647648000000,
+  "Prefecture": "Osaka",
+  "Deaths(Cumulative)": 4482
+ },
+ {
+  "Date": 1647648000000,
+  "Prefecture": "Hyogo",
+  "Deaths(Cumulative)": 2037
+ },
+ {
+  "Date": 1647648000000,
+  "Prefecture": "Nara",
+  "Deaths(Cumulative)": 331
+ },
+ {
+  "Date": 1647648000000,
+  "Prefecture": "Wakayama",
+  "Deaths(Cumulative)": 107
+ },
+ {
+  "Date": 1647648000000,
+  "Prefecture": "Tottori",
+  "Deaths(Cumulative)": 11
+ },
+ {
+  "Date": 1647648000000,
+  "Prefecture": "Shimane",
+  "Deaths(Cumulative)": 9
+ },
+ {
+  "Date": 1647648000000,
+  "Prefecture": "Okayama",
+  "Deaths(Cumulative)": 221
+ },
+ {
+  "Date": 1647648000000,
+  "Prefecture": "Hiroshima",
+  "Deaths(Cumulative)": 436
+ },
+ {
+  "Date": 1647648000000,
+  "Prefecture": "Yamaguchi",
+  "Deaths(Cumulative)": 159
+ },
+ {
+  "Date": 1647648000000,
+  "Prefecture": "Tokushima",
+  "Deaths(Cumulative)": 78
+ },
+ {
+  "Date": 1647648000000,
+  "Prefecture": "Kagawa",
+  "Deaths(Cumulative)": 99
+ },
+ {
+  "Date": 1647648000000,
+  "Prefecture": "Ehime",
+  "Deaths(Cumulative)": 125
+ },
+ {
+  "Date": 1647648000000,
+  "Prefecture": "Kochi",
+  "Deaths(Cumulative)": 97
+ },
+ {
+  "Date": 1647648000000,
+  "Prefecture": "Fukuoka",
+  "Deaths(Cumulative)": 1086
+ },
+ {
+  "Date": 1647648000000,
+  "Prefecture": "Saga",
+  "Deaths(Cumulative)": 77
+ },
+ {
+  "Date": 1647648000000,
+  "Prefecture": "Nagasaki",
+  "Deaths(Cumulative)": 116
+ },
+ {
+  "Date": 1647648000000,
+  "Prefecture": "Kumamoto",
+  "Deaths(Cumulative)": 265
+ },
+ {
+  "Date": 1647648000000,
+  "Prefecture": "Oita",
+  "Deaths(Cumulative)": 124
+ },
+ {
+  "Date": 1647648000000,
+  "Prefecture": "Miyazaki",
+  "Deaths(Cumulative)": 114
+ },
+ {
+  "Date": 1647648000000,
+  "Prefecture": "Kagoshima",
+  "Deaths(Cumulative)": 158
+ },
+ {
+  "Date": 1647648000000,
+  "Prefecture": "Okinawa",
+  "Deaths(Cumulative)": 437
  }
 ]
