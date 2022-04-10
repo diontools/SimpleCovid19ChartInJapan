@@ -172802,7 +172802,7 @@
  {
   "Date": 1641340800000,
   "Prefecture": "ALL",
-  "Newly confirmed cases": 2786
+  "Newly confirmed cases": 2787
  },
  {
   "Date": 1641340800000,
@@ -172972,7 +172972,7 @@
  {
   "Date": 1641340800000,
   "Prefecture": "Hiroshima",
-  "Newly confirmed cases": 217
+  "Newly confirmed cases": 218
  },
  {
   "Date": 1641340800000,
@@ -173042,7 +173042,7 @@
  {
   "Date": 1641427200000,
   "Prefecture": "ALL",
-  "Newly confirmed cases": 4483
+  "Newly confirmed cases": 4482
  },
  {
   "Date": 1641427200000,
@@ -173212,7 +173212,7 @@
  {
   "Date": 1641427200000,
   "Prefecture": "Hiroshima",
-  "Newly confirmed cases": 369
+  "Newly confirmed cases": 368
  },
  {
   "Date": 1641427200000,
@@ -174962,12 +174962,12 @@
  {
   "Date": 1642118400000,
   "Prefecture": "ALL",
-  "Newly confirmed cases": 23963
+  "Newly confirmed cases": 23962
  },
  {
   "Date": 1642118400000,
   "Prefecture": "Hokkaido",
-  "Newly confirmed cases": 496
+  "Newly confirmed cases": 495
  },
  {
   "Date": 1642118400000,
@@ -175922,7 +175922,7 @@
  {
   "Date": 1642464000000,
   "Prefecture": "ALL",
-  "Newly confirmed cases": 40149
+  "Newly confirmed cases": 40148
  },
  {
   "Date": 1642464000000,
@@ -176132,7 +176132,7 @@
  {
   "Date": 1642464000000,
   "Prefecture": "Nagasaki",
-  "Newly confirmed cases": 342
+  "Newly confirmed cases": 341
  },
  {
   "Date": 1642464000000,
@@ -176642,7 +176642,7 @@
  {
   "Date": 1642723200000,
   "Prefecture": "ALL",
-  "Newly confirmed cases": 55048
+  "Newly confirmed cases": 55045
  },
  {
   "Date": 1642723200000,
@@ -176692,7 +176692,7 @@
  {
   "Date": 1642723200000,
   "Prefecture": "Gunma",
-  "Newly confirmed cases": 631
+  "Newly confirmed cases": 630
  },
  {
   "Date": 1642723200000,
@@ -176852,7 +176852,7 @@
  {
   "Date": 1642723200000,
   "Prefecture": "Nagasaki",
-  "Newly confirmed cases": 470
+  "Newly confirmed cases": 468
  },
  {
   "Date": 1642723200000,
@@ -177122,12 +177122,12 @@
  {
   "Date": 1642896000000,
   "Prefecture": "ALL",
-  "Newly confirmed cases": 52743
+  "Newly confirmed cases": 52742
  },
  {
   "Date": 1642896000000,
   "Prefecture": "Hokkaido",
-  "Newly confirmed cases": 1360
+  "Newly confirmed cases": 1359
  },
  {
   "Date": 1642896000000,
@@ -177842,7 +177842,7 @@
  {
   "Date": 1643155200000,
   "Prefecture": "ALL",
-  "Newly confirmed cases": 80232
+  "Newly confirmed cases": 80231
  },
  {
   "Date": 1643155200000,
@@ -177977,7 +177977,7 @@
  {
   "Date": 1643155200000,
   "Prefecture": "Osaka",
-  "Newly confirmed cases": 11058
+  "Newly confirmed cases": 11057
  },
  {
   "Date": 1643155200000,
@@ -178322,7 +178322,7 @@
  {
   "Date": 1643328000000,
   "Prefecture": "ALL",
-  "Newly confirmed cases": 83929
+  "Newly confirmed cases": 83930
  },
  {
   "Date": 1643328000000,
@@ -178542,7 +178542,7 @@
  {
   "Date": 1643328000000,
   "Prefecture": "Oita",
-  "Newly confirmed cases": 298
+  "Newly confirmed cases": 299
  },
  {
   "Date": 1643328000000,
@@ -178562,7 +178562,7 @@
  {
   "Date": 1643414400000,
   "Prefecture": "ALL",
-  "Newly confirmed cases": 96498
+  "Newly confirmed cases": 96499
  },
  {
   "Date": 1643414400000,
@@ -178702,7 +178702,7 @@
  {
   "Date": 1643414400000,
   "Prefecture": "Hyogo",
-  "Newly confirmed cases": 5301
+  "Newly confirmed cases": 5302
  },
  {
   "Date": 1643414400000,
@@ -179282,7 +179282,7 @@
  {
   "Date": 1643673600000,
   "Prefecture": "ALL",
-  "Newly confirmed cases": 103519
+  "Newly confirmed cases": 103537
  },
  {
   "Date": 1643673600000,
@@ -179417,7 +179417,7 @@
  {
   "Date": 1643673600000,
   "Prefecture": "Osaka",
-  "Newly confirmed cases": 16163
+  "Newly confirmed cases": 16181
  },
  {
   "Date": 1643673600000,
@@ -179522,7 +179522,7 @@
  {
   "Date": 1643760000000,
   "Prefecture": "ALL",
-  "Newly confirmed cases": 97728
+  "Newly confirmed cases": 97729
  },
  {
   "Date": 1643760000000,
@@ -179652,7 +179652,7 @@
  {
   "Date": 1643760000000,
   "Prefecture": "Kyoto",
-  "Newly confirmed cases": 2762
+  "Newly confirmed cases": 2763
  },
  {
   "Date": 1643760000000,
@@ -179762,7 +179762,7 @@
  {
   "Date": 1643846400000,
   "Prefecture": "ALL",
-  "Newly confirmed cases": 97429
+  "Newly confirmed cases": 97437
  },
  {
   "Date": 1643846400000,
@@ -179822,7 +179822,7 @@
  {
   "Date": 1643846400000,
   "Prefecture": "Chiba",
-  "Newly confirmed cases": 5426
+  "Newly confirmed cases": 5427
  },
  {
   "Date": 1643846400000,
@@ -179862,7 +179862,7 @@
  {
   "Date": 1643846400000,
   "Prefecture": "Nagano",
-  "Newly confirmed cases": 512
+  "Newly confirmed cases": 520
  },
  {
   "Date": 1643846400000,
@@ -179897,7 +179897,7 @@
  {
   "Date": 1643846400000,
   "Prefecture": "Osaka",
-  "Newly confirmed cases": 13431
+  "Newly confirmed cases": 13430
  },
  {
   "Date": 1643846400000,
@@ -180242,7 +180242,7 @@
  {
   "Date": 1644019200000,
   "Prefecture": "ALL",
-  "Newly confirmed cases": 99979
+  "Newly confirmed cases": 99980
  },
  {
   "Date": 1644019200000,
@@ -180312,7 +180312,7 @@
  {
   "Date": 1644019200000,
   "Prefecture": "Kanagawa",
-  "Newly confirmed cases": 8894
+  "Newly confirmed cases": 8895
  },
  {
   "Date": 1644019200000,
@@ -180482,7 +180482,7 @@
  {
   "Date": 1644105600000,
   "Prefecture": "ALL",
-  "Newly confirmed cases": 74371
+  "Newly confirmed cases": 74372
  },
  {
   "Date": 1644105600000,
@@ -180617,7 +180617,7 @@
  {
   "Date": 1644105600000,
   "Prefecture": "Osaka",
-  "Newly confirmed cases": 9471
+  "Newly confirmed cases": 9472
  },
  {
   "Date": 1644105600000,
@@ -180962,7 +180962,7 @@
  {
   "Date": 1644278400000,
   "Prefecture": "ALL",
-  "Newly confirmed cases": 103066
+  "Newly confirmed cases": 103067
  },
  {
   "Date": 1644278400000,
@@ -181097,7 +181097,7 @@
  {
   "Date": 1644278400000,
   "Prefecture": "Osaka",
-  "Newly confirmed cases": 15746
+  "Newly confirmed cases": 15747
  },
  {
   "Date": 1644278400000,
@@ -181202,12 +181202,12 @@
  {
   "Date": 1644364800000,
   "Prefecture": "ALL",
-  "Newly confirmed cases": 95067
+  "Newly confirmed cases": 95073
  },
  {
   "Date": 1644364800000,
   "Prefecture": "Hokkaido",
-  "Newly confirmed cases": 3572
+  "Newly confirmed cases": 3577
  },
  {
   "Date": 1644364800000,
@@ -181272,7 +181272,7 @@
  {
   "Date": 1644364800000,
   "Prefecture": "Kanagawa",
-  "Newly confirmed cases": 8260
+  "Newly confirmed cases": 8261
  },
  {
   "Date": 1644364800000,
@@ -181442,7 +181442,7 @@
  {
   "Date": 1644451200000,
   "Prefecture": "ALL",
-  "Newly confirmed cases": 92352
+  "Newly confirmed cases": 92334
  },
  {
   "Date": 1644451200000,
@@ -181577,7 +181577,7 @@
  {
   "Date": 1644451200000,
   "Prefecture": "Osaka",
-  "Newly confirmed cases": 12105
+  "Newly confirmed cases": 12087
  },
  {
   "Date": 1644451200000,
@@ -181682,7 +181682,7 @@
  {
   "Date": 1644537600000,
   "Prefecture": "ALL",
-  "Newly confirmed cases": 86660
+  "Newly confirmed cases": 86657
  },
  {
   "Date": 1644537600000,
@@ -181752,7 +181752,7 @@
  {
   "Date": 1644537600000,
   "Prefecture": "Kanagawa",
-  "Newly confirmed cases": 7203
+  "Newly confirmed cases": 7200
  },
  {
   "Date": 1644537600000,
@@ -182162,7 +182162,7 @@
  {
   "Date": 1644710400000,
   "Prefecture": "ALL",
-  "Newly confirmed cases": 76417
+  "Newly confirmed cases": 76418
  },
  {
   "Date": 1644710400000,
@@ -182222,7 +182222,7 @@
  {
   "Date": 1644710400000,
   "Prefecture": "Chiba",
-  "Newly confirmed cases": 4410
+  "Newly confirmed cases": 4411
  },
  {
   "Date": 1644710400000,
@@ -182402,7 +182402,7 @@
  {
   "Date": 1644796800000,
   "Prefecture": "ALL",
-  "Newly confirmed cases": 36993
+  "Newly confirmed cases": 36995
  },
  {
   "Date": 1644796800000,
@@ -182472,7 +182472,7 @@
  {
   "Date": 1644796800000,
   "Prefecture": "Kanagawa",
-  "Newly confirmed cases": 3501
+  "Newly confirmed cases": 3503
  },
  {
   "Date": 1644796800000,
@@ -182642,7 +182642,7 @@
  {
   "Date": 1644883200000,
   "Prefecture": "ALL",
-  "Newly confirmed cases": 98084
+  "Newly confirmed cases": 98087
  },
  {
   "Date": 1644883200000,
@@ -182712,7 +182712,7 @@
  {
   "Date": 1644883200000,
   "Prefecture": "Kanagawa",
-  "Newly confirmed cases": 8846
+  "Newly confirmed cases": 8850
  },
  {
   "Date": 1644883200000,
@@ -182777,7 +182777,7 @@
  {
   "Date": 1644883200000,
   "Prefecture": "Osaka",
-  "Newly confirmed cases": 14500
+  "Newly confirmed cases": 14499
  },
  {
   "Date": 1644883200000,
@@ -183362,7 +183362,7 @@
  {
   "Date": 1645142400000,
   "Prefecture": "ALL",
-  "Newly confirmed cases": 71691
+  "Newly confirmed cases": 71695
  },
  {
   "Date": 1645142400000,
@@ -183432,7 +183432,7 @@
  {
   "Date": 1645142400000,
   "Prefecture": "Kanagawa",
-  "Newly confirmed cases": 6149
+  "Newly confirmed cases": 6153
  },
  {
   "Date": 1645142400000,
@@ -183602,12 +183602,12 @@
  {
   "Date": 1645228800000,
   "Prefecture": "ALL",
-  "Newly confirmed cases": 75697
+  "Newly confirmed cases": 75726
  },
  {
   "Date": 1645228800000,
   "Prefecture": "Hokkaido",
-  "Newly confirmed cases": 2762
+  "Newly confirmed cases": 2761
  },
  {
   "Date": 1645228800000,
@@ -183672,7 +183672,7 @@
  {
   "Date": 1645228800000,
   "Prefecture": "Kanagawa",
-  "Newly confirmed cases": 7231
+  "Newly confirmed cases": 7240
  },
  {
   "Date": 1645228800000,
@@ -183692,7 +183692,7 @@
  {
   "Date": 1645228800000,
   "Prefecture": "Fukui",
-  "Newly confirmed cases": 227
+  "Newly confirmed cases": 247
  },
  {
   "Date": 1645228800000,
@@ -183782,7 +183782,7 @@
  {
   "Date": 1645228800000,
   "Prefecture": "Tokushima",
-  "Newly confirmed cases": 270
+  "Newly confirmed cases": 271
  },
  {
   "Date": 1645228800000,
@@ -183842,12 +183842,12 @@
  {
   "Date": 1645315200000,
   "Prefecture": "ALL",
-  "Newly confirmed cases": 58887
+  "Newly confirmed cases": 58904
  },
  {
   "Date": 1645315200000,
   "Prefecture": "Hokkaido",
-  "Newly confirmed cases": 2045
+  "Newly confirmed cases": 2042
  },
  {
   "Date": 1645315200000,
@@ -183912,7 +183912,7 @@
  {
   "Date": 1645315200000,
   "Prefecture": "Kanagawa",
-  "Newly confirmed cases": 5499
+  "Newly confirmed cases": 5501
  },
  {
   "Date": 1645315200000,
@@ -183932,7 +183932,7 @@
  {
   "Date": 1645315200000,
   "Prefecture": "Fukui",
-  "Newly confirmed cases": 218
+  "Newly confirmed cases": 236
  },
  {
   "Date": 1645315200000,
@@ -184082,12 +184082,12 @@
  {
   "Date": 1645401600000,
   "Prefecture": "ALL",
-  "Newly confirmed cases": 29266
+  "Newly confirmed cases": 29287
  },
  {
   "Date": 1645401600000,
   "Prefecture": "Hokkaido",
-  "Newly confirmed cases": 1228
+  "Newly confirmed cases": 1229
  },
  {
   "Date": 1645401600000,
@@ -184152,7 +184152,7 @@
  {
   "Date": 1645401600000,
   "Prefecture": "Kanagawa",
-  "Newly confirmed cases": 2612
+  "Newly confirmed cases": 2613
  },
  {
   "Date": 1645401600000,
@@ -184172,7 +184172,7 @@
  {
   "Date": 1645401600000,
   "Prefecture": "Fukui",
-  "Newly confirmed cases": 142
+  "Newly confirmed cases": 161
  },
  {
   "Date": 1645401600000,
@@ -184322,7 +184322,7 @@
  {
   "Date": 1645488000000,
   "Prefecture": "ALL",
-  "Newly confirmed cases": 81547
+  "Newly confirmed cases": 81557
  },
  {
   "Date": 1645488000000,
@@ -184392,7 +184392,7 @@
  {
   "Date": 1645488000000,
   "Prefecture": "Kanagawa",
-  "Newly confirmed cases": 7596
+  "Newly confirmed cases": 7597
  },
  {
   "Date": 1645488000000,
@@ -184412,7 +184412,7 @@
  {
   "Date": 1645488000000,
   "Prefecture": "Fukui",
-  "Newly confirmed cases": 156
+  "Newly confirmed cases": 165
  },
  {
   "Date": 1645488000000,
@@ -184562,7 +184562,7 @@
  {
   "Date": 1645574400000,
   "Prefecture": "ALL",
-  "Newly confirmed cases": 82272
+  "Newly confirmed cases": 82301
  },
  {
   "Date": 1645574400000,
@@ -184652,7 +184652,7 @@
  {
   "Date": 1645574400000,
   "Prefecture": "Fukui",
-  "Newly confirmed cases": 315
+  "Newly confirmed cases": 344
  },
  {
   "Date": 1645574400000,
@@ -184802,7 +184802,7 @@
  {
   "Date": 1645660800000,
   "Prefecture": "ALL",
-  "Newly confirmed cases": 34427
+  "Newly confirmed cases": 34428
  },
  {
   "Date": 1645660800000,
@@ -184892,7 +184892,7 @@
  {
   "Date": 1645660800000,
   "Prefecture": "Fukui",
-  "Newly confirmed cases": 182
+  "Newly confirmed cases": 183
  },
  {
   "Date": 1645660800000,
@@ -185042,7 +185042,7 @@
  {
   "Date": 1645747200000,
   "Prefecture": "ALL",
-  "Newly confirmed cases": 70764
+  "Newly confirmed cases": 70768
  },
  {
   "Date": 1645747200000,
@@ -185112,7 +185112,7 @@
  {
   "Date": 1645747200000,
   "Prefecture": "Kanagawa",
-  "Newly confirmed cases": 6398
+  "Newly confirmed cases": 6402
  },
  {
   "Date": 1645747200000,
@@ -185282,7 +185282,7 @@
  {
   "Date": 1645833600000,
   "Prefecture": "ALL",
-  "Newly confirmed cases": 74128
+  "Newly confirmed cases": 74133
  },
  {
   "Date": 1645833600000,
@@ -185352,7 +185352,7 @@
  {
   "Date": 1645833600000,
   "Prefecture": "Kanagawa",
-  "Newly confirmed cases": 7204
+  "Newly confirmed cases": 7209
  },
  {
   "Date": 1645833600000,
@@ -186002,7 +186002,7 @@
  {
   "Date": 1646092800000,
   "Prefecture": "ALL",
-  "Newly confirmed cases": 75379
+  "Newly confirmed cases": 75397
  },
  {
   "Date": 1646092800000,
@@ -186072,7 +186072,7 @@
  {
   "Date": 1646092800000,
   "Prefecture": "Kanagawa",
-  "Newly confirmed cases": 6964
+  "Newly confirmed cases": 6982
  },
  {
   "Date": 1646092800000,
@@ -186242,7 +186242,7 @@
  {
   "Date": 1646179200000,
   "Prefecture": "ALL",
-  "Newly confirmed cases": 70221
+  "Newly confirmed cases": 70247
  },
  {
   "Date": 1646179200000,
@@ -186312,7 +186312,7 @@
  {
   "Date": 1646179200000,
   "Prefecture": "Kanagawa",
-  "Newly confirmed cases": 7002
+  "Newly confirmed cases": 7028
  },
  {
   "Date": 1646179200000,
@@ -186482,7 +186482,7 @@
  {
   "Date": 1646265600000,
   "Prefecture": "ALL",
-  "Newly confirmed cases": 59721
+  "Newly confirmed cases": 59725
  },
  {
   "Date": 1646265600000,
@@ -186547,12 +186547,12 @@
  {
   "Date": 1646265600000,
   "Prefecture": "Tokyo",
-  "Newly confirmed cases": 11104
+  "Newly confirmed cases": 11105
  },
  {
   "Date": 1646265600000,
   "Prefecture": "Kanagawa",
-  "Newly confirmed cases": 5633
+  "Newly confirmed cases": 5636
  },
  {
   "Date": 1646265600000,
@@ -186722,7 +186722,7 @@
  {
   "Date": 1646352000000,
   "Prefecture": "ALL",
-  "Newly confirmed cases": 54440
+  "Newly confirmed cases": 54441
  },
  {
   "Date": 1646352000000,
@@ -186792,7 +186792,7 @@
  {
   "Date": 1646352000000,
   "Prefecture": "Kanagawa",
-  "Newly confirmed cases": 5285
+  "Newly confirmed cases": 5286
  },
  {
   "Date": 1646352000000,
@@ -186962,7 +186962,7 @@
  {
   "Date": 1646438400000,
   "Prefecture": "ALL",
-  "Newly confirmed cases": 58546
+  "Newly confirmed cases": 58549
  },
  {
   "Date": 1646438400000,
@@ -187032,7 +187032,7 @@
  {
   "Date": 1646438400000,
   "Prefecture": "Kanagawa",
-  "Newly confirmed cases": 5817
+  "Newly confirmed cases": 5820
  },
  {
   "Date": 1646438400000,
@@ -187202,7 +187202,7 @@
  {
   "Date": 1646524800000,
   "Prefecture": "ALL",
-  "Newly confirmed cases": 44673
+  "Newly confirmed cases": 44677
  },
  {
   "Date": 1646524800000,
@@ -187222,7 +187222,7 @@
  {
   "Date": 1646524800000,
   "Prefecture": "Miyagi",
-  "Newly confirmed cases": 632
+  "Newly confirmed cases": 633
  },
  {
   "Date": 1646524800000,
@@ -187272,7 +187272,7 @@
  {
   "Date": 1646524800000,
   "Prefecture": "Kanagawa",
-  "Newly confirmed cases": 4477
+  "Newly confirmed cases": 4478
  },
  {
   "Date": 1646524800000,
@@ -187342,7 +187342,7 @@
  {
   "Date": 1646524800000,
   "Prefecture": "Hyogo",
-  "Newly confirmed cases": 2116
+  "Newly confirmed cases": 2118
  },
  {
   "Date": 1646524800000,
@@ -187442,7 +187442,7 @@
  {
   "Date": 1646611200000,
   "Prefecture": "ALL",
-  "Newly confirmed cases": 21984
+  "Newly confirmed cases": 21992
  },
  {
   "Date": 1646611200000,
@@ -187512,7 +187512,7 @@
  {
   "Date": 1646611200000,
   "Prefecture": "Kanagawa",
-  "Newly confirmed cases": 2107
+  "Newly confirmed cases": 2109
  },
  {
   "Date": 1646611200000,
@@ -187642,7 +187642,7 @@
  {
   "Date": 1646611200000,
   "Prefecture": "Fukuoka",
-  "Newly confirmed cases": 782
+  "Newly confirmed cases": 783
  },
  {
   "Date": 1646611200000,
@@ -187667,7 +187667,7 @@
  {
   "Date": 1646611200000,
   "Prefecture": "Miyazaki",
-  "Newly confirmed cases": 122
+  "Newly confirmed cases": 127
  },
  {
   "Date": 1646611200000,
@@ -187682,7 +187682,7 @@
  {
   "Date": 1646697600000,
   "Prefecture": "ALL",
-  "Newly confirmed cases": 64020
+  "Newly confirmed cases": 64040
  },
  {
   "Date": 1646697600000,
@@ -187702,7 +187702,7 @@
  {
   "Date": 1646697600000,
   "Prefecture": "Miyagi",
-  "Newly confirmed cases": 633
+  "Newly confirmed cases": 634
  },
  {
   "Date": 1646697600000,
@@ -187882,7 +187882,7 @@
  {
   "Date": 1646697600000,
   "Prefecture": "Fukuoka",
-  "Newly confirmed cases": 2098
+  "Newly confirmed cases": 2117
  },
  {
   "Date": 1646697600000,
@@ -187922,7 +187922,7 @@
  {
   "Date": 1646784000000,
   "Prefecture": "ALL",
-  "Newly confirmed cases": 61925
+  "Newly confirmed cases": 61976
  },
  {
   "Date": 1646784000000,
@@ -187942,7 +187942,7 @@
  {
   "Date": 1646784000000,
   "Prefecture": "Miyagi",
-  "Newly confirmed cases": 809
+  "Newly confirmed cases": 810
  },
  {
   "Date": 1646784000000,
@@ -187992,7 +187992,7 @@
  {
   "Date": 1646784000000,
   "Prefecture": "Kanagawa",
-  "Newly confirmed cases": 6257
+  "Newly confirmed cases": 6259
  },
  {
   "Date": 1646784000000,
@@ -188122,7 +188122,7 @@
  {
   "Date": 1646784000000,
   "Prefecture": "Fukuoka",
-  "Newly confirmed cases": 2254
+  "Newly confirmed cases": 2302
  },
  {
   "Date": 1646784000000,
@@ -188162,7 +188162,7 @@
  {
   "Date": 1646870400000,
   "Prefecture": "ALL",
-  "Newly confirmed cases": 53169
+  "Newly confirmed cases": 53181
  },
  {
   "Date": 1646870400000,
@@ -188232,7 +188232,7 @@
  {
   "Date": 1646870400000,
   "Prefecture": "Kanagawa",
-  "Newly confirmed cases": 4782
+  "Newly confirmed cases": 4783
  },
  {
   "Date": 1646870400000,
@@ -188292,12 +188292,12 @@
  {
   "Date": 1646870400000,
   "Prefecture": "Kyoto",
-  "Newly confirmed cases": 1164
+  "Newly confirmed cases": 1163
  },
  {
   "Date": 1646870400000,
   "Prefecture": "Osaka",
-  "Newly confirmed cases": 5077
+  "Newly confirmed cases": 5076
  },
  {
   "Date": 1646870400000,
@@ -188362,7 +188362,7 @@
  {
   "Date": 1646870400000,
   "Prefecture": "Fukuoka",
-  "Newly confirmed cases": 1890
+  "Newly confirmed cases": 1903
  },
  {
   "Date": 1646870400000,
@@ -188402,7 +188402,7 @@
  {
   "Date": 1646956800000,
   "Prefecture": "ALL",
-  "Newly confirmed cases": 47840
+  "Newly confirmed cases": 47844
  },
  {
   "Date": 1646956800000,
@@ -188472,12 +188472,12 @@
  {
   "Date": 1646956800000,
   "Prefecture": "Kanagawa",
-  "Newly confirmed cases": 4446
+  "Newly confirmed cases": 4449
  },
  {
   "Date": 1646956800000,
   "Prefecture": "Niigata",
-  "Newly confirmed cases": 437
+  "Newly confirmed cases": 438
  },
  {
   "Date": 1646956800000,
@@ -188642,7 +188642,7 @@
  {
   "Date": 1647043200000,
   "Prefecture": "ALL",
-  "Newly confirmed cases": 52152
+  "Newly confirmed cases": 52154
  },
  {
   "Date": 1647043200000,
@@ -188712,7 +188712,7 @@
  {
   "Date": 1647043200000,
   "Prefecture": "Kanagawa",
-  "Newly confirmed cases": 5336
+  "Newly confirmed cases": 5338
  },
  {
   "Date": 1647043200000,
@@ -188882,7 +188882,7 @@
  {
   "Date": 1647129600000,
   "Prefecture": "ALL",
-  "Newly confirmed cases": 40699
+  "Newly confirmed cases": 40700
  },
  {
   "Date": 1647129600000,
@@ -188902,7 +188902,7 @@
  {
   "Date": 1647129600000,
   "Prefecture": "Miyagi",
-  "Newly confirmed cases": 496
+  "Newly confirmed cases": 497
  },
  {
   "Date": 1647129600000,
@@ -189122,7 +189122,7 @@
  {
   "Date": 1647216000000,
   "Prefecture": "ALL",
-  "Newly confirmed cases": 21052
+  "Newly confirmed cases": 21053
  },
  {
   "Date": 1647216000000,
@@ -189262,7 +189262,7 @@
  {
   "Date": 1647216000000,
   "Prefecture": "Hyogo",
-  "Newly confirmed cases": 605
+  "Newly confirmed cases": 606
  },
  {
   "Date": 1647216000000,
@@ -189362,7 +189362,7 @@
  {
   "Date": 1647302400000,
   "Prefecture": "ALL",
-  "Newly confirmed cases": 59159
+  "Newly confirmed cases": 59160
  },
  {
   "Date": 1647302400000,
@@ -189432,7 +189432,7 @@
  {
   "Date": 1647302400000,
   "Prefecture": "Kanagawa",
-  "Newly confirmed cases": 5656
+  "Newly confirmed cases": 5657
  },
  {
   "Date": 1647302400000,
@@ -189602,7 +189602,7 @@
  {
   "Date": 1647388800000,
   "Prefecture": "ALL",
-  "Newly confirmed cases": 56088
+  "Newly confirmed cases": 56117
  },
  {
   "Date": 1647388800000,
@@ -189672,7 +189672,7 @@
  {
   "Date": 1647388800000,
   "Prefecture": "Kanagawa",
-  "Newly confirmed cases": 5408
+  "Newly confirmed cases": 5432
  },
  {
   "Date": 1647388800000,
@@ -189782,7 +189782,7 @@
  {
   "Date": 1647388800000,
   "Prefecture": "Tokushima",
-  "Newly confirmed cases": 217
+  "Newly confirmed cases": 221
  },
  {
   "Date": 1647388800000,
@@ -189827,7 +189827,7 @@
  {
   "Date": 1647388800000,
   "Prefecture": "Miyazaki",
-  "Newly confirmed cases": 280
+  "Newly confirmed cases": 281
  },
  {
   "Date": 1647388800000,
@@ -189842,7 +189842,7 @@
  {
   "Date": 1647475200000,
   "Prefecture": "ALL",
-  "Newly confirmed cases": 47376
+  "Newly confirmed cases": 47408
  },
  {
   "Date": 1647475200000,
@@ -189912,7 +189912,7 @@
  {
   "Date": 1647475200000,
   "Prefecture": "Kanagawa",
-  "Newly confirmed cases": 4346
+  "Newly confirmed cases": 4378
  },
  {
   "Date": 1647475200000,
@@ -190082,7 +190082,7 @@
  {
   "Date": 1647561600000,
   "Prefecture": "ALL",
-  "Newly confirmed cases": 40030
+  "Newly confirmed cases": 40064
  },
  {
   "Date": 1647561600000,
@@ -190152,7 +190152,7 @@
  {
   "Date": 1647561600000,
   "Prefecture": "Kanagawa",
-  "Newly confirmed cases": 3417
+  "Newly confirmed cases": 3451
  },
  {
   "Date": 1647561600000,
@@ -190322,7 +190322,7 @@
  {
   "Date": 1647648000000,
   "Prefecture": "ALL",
-  "Newly confirmed cases": 41732
+  "Newly confirmed cases": 41734
  },
  {
   "Date": 1647648000000,
@@ -190392,7 +190392,7 @@
  {
   "Date": 1647648000000,
   "Prefecture": "Kanagawa",
-  "Newly confirmed cases": 3935
+  "Newly confirmed cases": 3936
  },
  {
   "Date": 1647648000000,
@@ -190472,7 +190472,7 @@
  {
   "Date": 1647648000000,
   "Prefecture": "Wakayama",
-  "Newly confirmed cases": 93
+  "Newly confirmed cases": 94
  },
  {
   "Date": 1647648000000,
@@ -190562,7 +190562,7 @@
  {
   "Date": 1647734400000,
   "Prefecture": "ALL",
-  "Newly confirmed cases": 32699
+  "Newly confirmed cases": 32708
  },
  {
   "Date": 1647734400000,
@@ -190632,7 +190632,7 @@
  {
   "Date": 1647734400000,
   "Prefecture": "Kanagawa",
-  "Newly confirmed cases": 2956
+  "Newly confirmed cases": 2963
  },
  {
   "Date": 1647734400000,
@@ -190712,7 +190712,7 @@
  {
   "Date": 1647734400000,
   "Prefecture": "Wakayama",
-  "Newly confirmed cases": 86
+  "Newly confirmed cases": 88
  },
  {
   "Date": 1647734400000,
@@ -190802,7 +190802,7 @@
  {
   "Date": 1647820800000,
   "Prefecture": "ALL",
-  "Newly confirmed cases": 18992
+  "Newly confirmed cases": 18993
  },
  {
   "Date": 1647820800000,
@@ -190952,7 +190952,7 @@
  {
   "Date": 1647820800000,
   "Prefecture": "Wakayama",
-  "Newly confirmed cases": 97
+  "Newly confirmed cases": 98
  },
  {
   "Date": 1647820800000,
@@ -191042,7 +191042,7 @@
  {
   "Date": 1647907200000,
   "Prefecture": "ALL",
-  "Newly confirmed cases": 15544
+  "Newly confirmed cases": 15546
  },
  {
   "Date": 1647907200000,
@@ -191062,7 +191062,7 @@
  {
   "Date": 1647907200000,
   "Prefecture": "Miyagi",
-  "Newly confirmed cases": 225
+  "Newly confirmed cases": 226
  },
  {
   "Date": 1647907200000,
@@ -191112,7 +191112,7 @@
  {
   "Date": 1647907200000,
   "Prefecture": "Kanagawa",
-  "Newly confirmed cases": 1228
+  "Newly confirmed cases": 1227
  },
  {
   "Date": 1647907200000,
@@ -191192,7 +191192,7 @@
  {
   "Date": 1647907200000,
   "Prefecture": "Wakayama",
-  "Newly confirmed cases": 56
+  "Newly confirmed cases": 57
  },
  {
   "Date": 1647907200000,
@@ -191267,7 +191267,7 @@
  {
   "Date": 1647907200000,
   "Prefecture": "Miyazaki",
-  "Newly confirmed cases": 114
+  "Newly confirmed cases": 115
  },
  {
   "Date": 1647907200000,
@@ -191282,7 +191282,7 @@
  {
   "Date": 1647993600000,
   "Prefecture": "ALL",
-  "Newly confirmed cases": 51877
+  "Newly confirmed cases": 51894
  },
  {
   "Date": 1647993600000,
@@ -191302,7 +191302,7 @@
  {
   "Date": 1647993600000,
   "Prefecture": "Miyagi",
-  "Newly confirmed cases": 542
+  "Newly confirmed cases": 541
  },
  {
   "Date": 1647993600000,
@@ -191352,7 +191352,7 @@
  {
   "Date": 1647993600000,
   "Prefecture": "Kanagawa",
-  "Newly confirmed cases": 4339
+  "Newly confirmed cases": 4340
  },
  {
   "Date": 1647993600000,
@@ -191372,7 +191372,7 @@
  {
   "Date": 1647993600000,
   "Prefecture": "Fukui",
-  "Newly confirmed cases": 174
+  "Newly confirmed cases": 185
  },
  {
   "Date": 1647993600000,
@@ -191417,22 +191417,22 @@
  {
   "Date": 1647993600000,
   "Prefecture": "Osaka",
-  "Newly confirmed cases": 5072
+  "Newly confirmed cases": 5074
  },
  {
   "Date": 1647993600000,
   "Prefecture": "Hyogo",
-  "Newly confirmed cases": 2469
+  "Newly confirmed cases": 2470
  },
  {
   "Date": 1647993600000,
   "Prefecture": "Nara",
-  "Newly confirmed cases": 629
+  "Newly confirmed cases": 630
  },
  {
   "Date": 1647993600000,
   "Prefecture": "Wakayama",
-  "Newly confirmed cases": 188
+  "Newly confirmed cases": 190
  },
  {
   "Date": 1647993600000,
@@ -191522,17 +191522,17 @@
  {
   "Date": 1648080000000,
   "Prefecture": "ALL",
-  "Newly confirmed cases": 49081
+  "Newly confirmed cases": 49087
  },
  {
   "Date": 1648080000000,
   "Prefecture": "Hokkaido",
-  "Newly confirmed cases": 1979
+  "Newly confirmed cases": 1980
  },
  {
   "Date": 1648080000000,
   "Prefecture": "Aomori",
-  "Newly confirmed cases": 610
+  "Newly confirmed cases": 611
  },
  {
   "Date": 1648080000000,
@@ -191612,7 +191612,7 @@
  {
   "Date": 1648080000000,
   "Prefecture": "Fukui",
-  "Newly confirmed cases": 105
+  "Newly confirmed cases": 108
  },
  {
   "Date": 1648080000000,
@@ -191682,7 +191682,7 @@
  {
   "Date": 1648080000000,
   "Prefecture": "Shimane",
-  "Newly confirmed cases": 55
+  "Newly confirmed cases": 56
  },
  {
   "Date": 1648080000000,
@@ -191762,7 +191762,7 @@
  {
   "Date": 1648166400000,
   "Prefecture": "ALL",
-  "Newly confirmed cases": 41951
+  "Newly confirmed cases": 41973
  },
  {
   "Date": 1648166400000,
@@ -191822,12 +191822,12 @@
  {
   "Date": 1648166400000,
   "Prefecture": "Chiba",
-  "Newly confirmed cases": 2536
+  "Newly confirmed cases": 2535
  },
  {
   "Date": 1648166400000,
   "Prefecture": "Tokyo",
-  "Newly confirmed cases": 7461
+  "Newly confirmed cases": 7460
  },
  {
   "Date": 1648166400000,
@@ -191852,7 +191852,7 @@
  {
   "Date": 1648166400000,
   "Prefecture": "Fukui",
-  "Newly confirmed cases": 156
+  "Newly confirmed cases": 164
  },
  {
   "Date": 1648166400000,
@@ -191887,7 +191887,7 @@
  {
   "Date": 1648166400000,
   "Prefecture": "Shiga",
-  "Newly confirmed cases": 582
+  "Newly confirmed cases": 584
  },
  {
   "Date": 1648166400000,
@@ -191977,7 +191977,7 @@
  {
   "Date": 1648166400000,
   "Prefecture": "Kumamoto",
-  "Newly confirmed cases": 309
+  "Newly confirmed cases": 323
  },
  {
   "Date": 1648166400000,
@@ -192002,242 +192002,242 @@
  {
   "Date": 1648252800000,
   "Prefecture": "ALL",
-  "Newly confirmed cases": 47233
+  "Newly confirmed cases": 44404
  },
  {
   "Date": 1648252800000,
   "Prefecture": "Hokkaido",
-  "Newly confirmed cases": 1701
+  "Newly confirmed cases": 1643
  },
  {
   "Date": 1648252800000,
   "Prefecture": "Aomori",
-  "Newly confirmed cases": 526
+  "Newly confirmed cases": 503
  },
  {
   "Date": 1648252800000,
   "Prefecture": "Iwate",
-  "Newly confirmed cases": 247
+  "Newly confirmed cases": 248
  },
  {
   "Date": 1648252800000,
   "Prefecture": "Miyagi",
-  "Newly confirmed cases": 564
+  "Newly confirmed cases": 548
  },
  {
   "Date": 1648252800000,
   "Prefecture": "Akita",
-  "Newly confirmed cases": 288
+  "Newly confirmed cases": 285
  },
  {
   "Date": 1648252800000,
   "Prefecture": "Yamagata",
-  "Newly confirmed cases": 195
+  "Newly confirmed cases": 112
  },
  {
   "Date": 1648252800000,
   "Prefecture": "Fukushima",
-  "Newly confirmed cases": 420
+  "Newly confirmed cases": 386
  },
  {
   "Date": 1648252800000,
   "Prefecture": "Ibaraki",
-  "Newly confirmed cases": 1339
+  "Newly confirmed cases": 1365
  },
  {
   "Date": 1648252800000,
   "Prefecture": "Tochigi",
-  "Newly confirmed cases": 628
+  "Newly confirmed cases": 589
  },
  {
   "Date": 1648252800000,
   "Prefecture": "Gunma",
-  "Newly confirmed cases": 582
+  "Newly confirmed cases": 507
  },
  {
   "Date": 1648252800000,
   "Prefecture": "Saitama",
-  "Newly confirmed cases": 4129
+  "Newly confirmed cases": 3818
  },
  {
   "Date": 1648252800000,
   "Prefecture": "Chiba",
-  "Newly confirmed cases": 2649
+  "Newly confirmed cases": 2606
  },
  {
   "Date": 1648252800000,
   "Prefecture": "Tokyo",
-  "Newly confirmed cases": 7440
+  "Newly confirmed cases": 7801
  },
  {
   "Date": 1648252800000,
   "Prefecture": "Kanagawa",
-  "Newly confirmed cases": 4848
+  "Newly confirmed cases": 3849
  },
  {
   "Date": 1648252800000,
   "Prefecture": "Niigata",
-  "Newly confirmed cases": 545
+  "Newly confirmed cases": 433
  },
  {
   "Date": 1648252800000,
   "Prefecture": "Toyama",
-  "Newly confirmed cases": 236
+  "Newly confirmed cases": 248
  },
  {
   "Date": 1648252800000,
   "Prefecture": "Ishikawa",
-  "Newly confirmed cases": 234
+  "Newly confirmed cases": 268
  },
  {
   "Date": 1648252800000,
   "Prefecture": "Fukui",
-  "Newly confirmed cases": 161
+  "Newly confirmed cases": 116
  },
  {
   "Date": 1648252800000,
   "Prefecture": "Yamanashi",
-  "Newly confirmed cases": 211
+  "Newly confirmed cases": 223
  },
  {
   "Date": 1648252800000,
   "Prefecture": "Nagano",
-  "Newly confirmed cases": 500
+  "Newly confirmed cases": 389
  },
  {
   "Date": 1648252800000,
   "Prefecture": "Gifu",
-  "Newly confirmed cases": 520
+  "Newly confirmed cases": 526
  },
  {
   "Date": 1648252800000,
   "Prefecture": "Shizuoka",
-  "Newly confirmed cases": 1050
+  "Newly confirmed cases": 774
  },
  {
   "Date": 1648252800000,
   "Prefecture": "Aichi",
-  "Newly confirmed cases": 2595
+  "Newly confirmed cases": 2623
  },
  {
   "Date": 1648252800000,
   "Prefecture": "Mie",
-  "Newly confirmed cases": 493
+  "Newly confirmed cases": 575
  },
  {
   "Date": 1648252800000,
   "Prefecture": "Shiga",
-  "Newly confirmed cases": 497
+  "Newly confirmed cases": 571
  },
  {
   "Date": 1648252800000,
   "Prefecture": "Kyoto",
-  "Newly confirmed cases": 839
+  "Newly confirmed cases": 860
  },
  {
   "Date": 1648252800000,
   "Prefecture": "Osaka",
-  "Newly confirmed cases": 3645
+  "Newly confirmed cases": 3326
  },
  {
   "Date": 1648252800000,
   "Prefecture": "Hyogo",
-  "Newly confirmed cases": 1984
+  "Newly confirmed cases": 1789
  },
  {
   "Date": 1648252800000,
   "Prefecture": "Nara",
-  "Newly confirmed cases": 374
+  "Newly confirmed cases": 478
  },
  {
   "Date": 1648252800000,
   "Prefecture": "Wakayama",
-  "Newly confirmed cases": 154
+  "Newly confirmed cases": 103
  },
  {
   "Date": 1648252800000,
   "Prefecture": "Tottori",
-  "Newly confirmed cases": 77
+  "Newly confirmed cases": 84
  },
  {
   "Date": 1648252800000,
   "Prefecture": "Shimane",
-  "Newly confirmed cases": 111
+  "Newly confirmed cases": 66
  },
  {
   "Date": 1648252800000,
   "Prefecture": "Okayama",
-  "Newly confirmed cases": 366
+  "Newly confirmed cases": 374
  },
  {
   "Date": 1648252800000,
   "Prefecture": "Hiroshima",
-  "Newly confirmed cases": 869
+  "Newly confirmed cases": 964
  },
  {
   "Date": 1648252800000,
   "Prefecture": "Yamaguchi",
-  "Newly confirmed cases": 240
+  "Newly confirmed cases": 239
  },
  {
   "Date": 1648252800000,
   "Prefecture": "Tokushima",
-  "Newly confirmed cases": 108
+  "Newly confirmed cases": 92
  },
  {
   "Date": 1648252800000,
   "Prefecture": "Kagawa",
-  "Newly confirmed cases": 273
+  "Newly confirmed cases": 313
  },
  {
   "Date": 1648252800000,
   "Prefecture": "Ehime",
-  "Newly confirmed cases": 257
+  "Newly confirmed cases": 244
  },
  {
   "Date": 1648252800000,
   "Prefecture": "Kochi",
-  "Newly confirmed cases": 133
+  "Newly confirmed cases": 125
  },
  {
   "Date": 1648252800000,
   "Prefecture": "Fukuoka",
-  "Newly confirmed cases": 2277
+  "Newly confirmed cases": 1560
  },
  {
   "Date": 1648252800000,
   "Prefecture": "Saga",
-  "Newly confirmed cases": 316
+  "Newly confirmed cases": 255
  },
  {
   "Date": 1648252800000,
   "Prefecture": "Nagasaki",
-  "Newly confirmed cases": 256
+  "Newly confirmed cases": 229
  },
  {
   "Date": 1648252800000,
   "Prefecture": "Kumamoto",
-  "Newly confirmed cases": 379
+  "Newly confirmed cases": 378
  },
  {
   "Date": 1648252800000,
   "Prefecture": "Oita",
-  "Newly confirmed cases": 283
+  "Newly confirmed cases": 284
  },
  {
   "Date": 1648252800000,
   "Prefecture": "Miyazaki",
-  "Newly confirmed cases": 218
+  "Newly confirmed cases": 232
  },
  {
   "Date": 1648252800000,
   "Prefecture": "Kagoshima",
-  "Newly confirmed cases": 597
+  "Newly confirmed cases": 530
  },
  {
   "Date": 1648252800000,
   "Prefecture": "Okinawa",
-  "Newly confirmed cases": 879
+  "Newly confirmed cases": 873
  },
  {
   "Date": 1648339200000,
@@ -195358,5 +195358,245 @@
   "Date": 1649376000000,
   "Prefecture": "Okinawa",
   "Newly confirmed cases": 1328
+ },
+ {
+  "Date": 1649462400000,
+  "Prefecture": "ALL",
+  "Newly confirmed cases": 52647
+ },
+ {
+  "Date": 1649462400000,
+  "Prefecture": "Hokkaido",
+  "Newly confirmed cases": 2274
+ },
+ {
+  "Date": 1649462400000,
+  "Prefecture": "Aomori",
+  "Newly confirmed cases": 555
+ },
+ {
+  "Date": 1649462400000,
+  "Prefecture": "Iwate",
+  "Newly confirmed cases": 378
+ },
+ {
+  "Date": 1649462400000,
+  "Prefecture": "Miyagi",
+  "Newly confirmed cases": 567
+ },
+ {
+  "Date": 1649462400000,
+  "Prefecture": "Akita",
+  "Newly confirmed cases": 285
+ },
+ {
+  "Date": 1649462400000,
+  "Prefecture": "Yamagata",
+  "Newly confirmed cases": 185
+ },
+ {
+  "Date": 1649462400000,
+  "Prefecture": "Fukushima",
+  "Newly confirmed cases": 654
+ },
+ {
+  "Date": 1649462400000,
+  "Prefecture": "Ibaraki",
+  "Newly confirmed cases": 1505
+ },
+ {
+  "Date": 1649462400000,
+  "Prefecture": "Tochigi",
+  "Newly confirmed cases": 761
+ },
+ {
+  "Date": 1649462400000,
+  "Prefecture": "Gunma",
+  "Newly confirmed cases": 502
+ },
+ {
+  "Date": 1649462400000,
+  "Prefecture": "Saitama",
+  "Newly confirmed cases": 3661
+ },
+ {
+  "Date": 1649462400000,
+  "Prefecture": "Chiba",
+  "Newly confirmed cases": 2941
+ },
+ {
+  "Date": 1649462400000,
+  "Prefecture": "Tokyo",
+  "Newly confirmed cases": 8102
+ },
+ {
+  "Date": 1649462400000,
+  "Prefecture": "Kanagawa",
+  "Newly confirmed cases": 3792
+ },
+ {
+  "Date": 1649462400000,
+  "Prefecture": "Niigata",
+  "Newly confirmed cases": 775
+ },
+ {
+  "Date": 1649462400000,
+  "Prefecture": "Toyama",
+  "Newly confirmed cases": 186
+ },
+ {
+  "Date": 1649462400000,
+  "Prefecture": "Ishikawa",
+  "Newly confirmed cases": 301
+ },
+ {
+  "Date": 1649462400000,
+  "Prefecture": "Fukui",
+  "Newly confirmed cases": 223
+ },
+ {
+  "Date": 1649462400000,
+  "Prefecture": "Yamanashi",
+  "Newly confirmed cases": 263
+ },
+ {
+  "Date": 1649462400000,
+  "Prefecture": "Nagano",
+  "Newly confirmed cases": 740
+ },
+ {
+  "Date": 1649462400000,
+  "Prefecture": "Gifu",
+  "Newly confirmed cases": 579
+ },
+ {
+  "Date": 1649462400000,
+  "Prefecture": "Shizuoka",
+  "Newly confirmed cases": 999
+ },
+ {
+  "Date": 1649462400000,
+  "Prefecture": "Aichi",
+  "Newly confirmed cases": 2726
+ },
+ {
+  "Date": 1649462400000,
+  "Prefecture": "Mie",
+  "Newly confirmed cases": 555
+ },
+ {
+  "Date": 1649462400000,
+  "Prefecture": "Shiga",
+  "Newly confirmed cases": 523
+ },
+ {
+  "Date": 1649462400000,
+  "Prefecture": "Kyoto",
+  "Newly confirmed cases": 992
+ },
+ {
+  "Date": 1649462400000,
+  "Prefecture": "Osaka",
+  "Newly confirmed cases": 4200
+ },
+ {
+  "Date": 1649462400000,
+  "Prefecture": "Hyogo",
+  "Newly confirmed cases": 1833
+ },
+ {
+  "Date": 1649462400000,
+  "Prefecture": "Nara",
+  "Newly confirmed cases": 445
+ },
+ {
+  "Date": 1649462400000,
+  "Prefecture": "Wakayama",
+  "Newly confirmed cases": 242
+ },
+ {
+  "Date": 1649462400000,
+  "Prefecture": "Tottori",
+  "Newly confirmed cases": 93
+ },
+ {
+  "Date": 1649462400000,
+  "Prefecture": "Shimane",
+  "Newly confirmed cases": 152
+ },
+ {
+  "Date": 1649462400000,
+  "Prefecture": "Okayama",
+  "Newly confirmed cases": 642
+ },
+ {
+  "Date": 1649462400000,
+  "Prefecture": "Hiroshima",
+  "Newly confirmed cases": 1205
+ },
+ {
+  "Date": 1649462400000,
+  "Prefecture": "Yamaguchi",
+  "Newly confirmed cases": 345
+ },
+ {
+  "Date": 1649462400000,
+  "Prefecture": "Tokushima",
+  "Newly confirmed cases": 107
+ },
+ {
+  "Date": 1649462400000,
+  "Prefecture": "Kagawa",
+  "Newly confirmed cases": 351
+ },
+ {
+  "Date": 1649462400000,
+  "Prefecture": "Ehime",
+  "Newly confirmed cases": 312
+ },
+ {
+  "Date": 1649462400000,
+  "Prefecture": "Kochi",
+  "Newly confirmed cases": 154
+ },
+ {
+  "Date": 1649462400000,
+  "Prefecture": "Fukuoka",
+  "Newly confirmed cases": 2734
+ },
+ {
+  "Date": 1649462400000,
+  "Prefecture": "Saga",
+  "Newly confirmed cases": 406
+ },
+ {
+  "Date": 1649462400000,
+  "Prefecture": "Nagasaki",
+  "Newly confirmed cases": 389
+ },
+ {
+  "Date": 1649462400000,
+  "Prefecture": "Kumamoto",
+  "Newly confirmed cases": 680
+ },
+ {
+  "Date": 1649462400000,
+  "Prefecture": "Oita",
+  "Newly confirmed cases": 465
+ },
+ {
+  "Date": 1649462400000,
+  "Prefecture": "Miyazaki",
+  "Newly confirmed cases": 609
+ },
+ {
+  "Date": 1649462400000,
+  "Prefecture": "Kagoshima",
+  "Newly confirmed cases": 735
+ },
+ {
+  "Date": 1649462400000,
+  "Prefecture": "Okinawa",
+  "Newly confirmed cases": 1524
  }
 ]
